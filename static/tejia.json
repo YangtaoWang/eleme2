@@ -1,0 +1,1338 @@
+{
+    "description": "",
+    "header_image": "6d5de7613f554b5db1380f266097504bjpeg",
+    "more_url": "eleme://web?url=https%3A%2F%2Fh5.ele.me%2Franking%2F%23type%3Dspecial_food&navType=2",
+    "page_title": "天天特价",
+    "query_list": [
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=161227963&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20753169927%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=753169927&auto_expand_cart_view=1&animation_type=1&category_id=531851203&type=0",
+                    "category_id": 531851203,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 753169927,
+                    "food_rate": "15人好评",
+                    "icon_name": "折",
+                    "id": 753169927,
+                    "image_path": "205b4479d9bac52d7eac18e4ac0bc1d2jpeg",
+                    "is_new": false,
+                    "month_sales": 41,
+                    "name": "虾仁饭+虎头酱+果汁",
+                    "original_price": 42,
+                    "packing_fee": 0,
+                    "price": 21,
+                    "reason": "",
+                    "restaurant_id": 161227963,
+                    "restaurant_name": "唯客东海虾饭（广渠门店）",
+                    "satisfy_count": 15,
+                    "satisfy_rate": 93,
+                    "scheme": "eleme://catering?target_food_id=753169927&restaurant_id=161227963&category_id=531851203",
+                    "sku_id": "371606005003",
+                    "stock": 9957
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=160260460&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20742677737%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=742677737&auto_expand_cart_view=1&animation_type=1&category_id=530611807&type=0",
+                    "category_id": 530611807,
+                    "discount_activity": "",
+                    "discount_rate": 0.8,
+                    "food_id": 742677737,
+                    "food_rate": "5人好评",
+                    "icon_name": "特",
+                    "id": 742677737,
+                    "image_path": "1c46389f88f974221d3b10e0959b9bd1jpeg",
+                    "is_new": false,
+                    "month_sales": 26,
+                    "name": "羊肉串10",
+                    "original_price": 30,
+                    "packing_fee": 1,
+                    "price": 24,
+                    "reason": "",
+                    "restaurant_id": 160260460,
+                    "restaurant_name": "80烧烤",
+                    "satisfy_count": 5,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=742677737&restaurant_id=160260460&category_id=530611807",
+                    "sku_id": "360862002797",
+                    "stock": 9973
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=154907685&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20730371786%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=730371786&auto_expand_cart_view=1&animation_type=1&category_id=530180467&type=0",
+                    "category_id": 530180467,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 730371786,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 730371786,
+                    "image_path": "225451660bb08411c23b80dff269c696jpeg",
+                    "is_new": false,
+                    "month_sales": 0,
+                    "name": "哈哈镜酸辣豇豆塑封装",
+                    "original_price": 22,
+                    "packing_fee": 0,
+                    "price": 11,
+                    "reason": "",
+                    "restaurant_id": 154907685,
+                    "restaurant_name": "哈哈镜",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=730371786&restaurant_id=154907685&category_id=530180467",
+                    "sku_id": "348260708419",
+                    "stock": 10000
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=160260460&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20742690430%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=742690430&auto_expand_cart_view=1&animation_type=1&category_id=530611807&type=0",
+                    "category_id": 530611807,
+                    "discount_activity": "",
+                    "discount_rate": 0.8,
+                    "food_id": 742690430,
+                    "food_rate": "3人好评",
+                    "icon_name": "特",
+                    "id": 742690430,
+                    "image_path": "0793000cbd9c66fce271c4deb076c110jpeg",
+                    "is_new": false,
+                    "month_sales": 14,
+                    "name": "羊肉筋10",
+                    "original_price": 30,
+                    "packing_fee": 1,
+                    "price": 24,
+                    "reason": "",
+                    "restaurant_id": 160260460,
+                    "restaurant_name": "80烧烤",
+                    "satisfy_count": 3,
+                    "satisfy_rate": 75,
+                    "scheme": "eleme://catering?target_food_id=742690430&restaurant_id=160260460&category_id=530611807",
+                    "sku_id": "360875000429",
+                    "stock": 9984
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=154907685&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20730376338%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=730376338&auto_expand_cart_view=1&animation_type=1&category_id=530180467&type=0",
+                    "category_id": 530180467,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 730376338,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 730376338,
+                    "image_path": "8d2b375e3c8d65dbfdc598acdfb1e754jpeg",
+                    "is_new": false,
+                    "month_sales": 2,
+                    "name": "哈哈镜卤鸭脖塑封装",
+                    "original_price": 26,
+                    "packing_fee": 0,
+                    "price": 13,
+                    "reason": "",
+                    "restaurant_id": 154907685,
+                    "restaurant_name": "哈哈镜",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=730376338&restaurant_id=154907685&category_id=530180467",
+                    "sku_id": "348265369667",
+                    "stock": 9995
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "7.2折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "7.2折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=161227963&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20751618819%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=751618819&auto_expand_cart_view=1&animation_type=1&category_id=531706113&type=0",
+                    "category_id": 531706113,
+                    "discount_activity": "",
+                    "discount_rate": 0.72,
+                    "food_id": 751618819,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 751618819,
+                    "image_path": "d0fb44be92aa3e42d85a0d72988d0f51jpeg",
+                    "is_new": false,
+                    "month_sales": 0,
+                    "name": "麻辣鱿鱼饭+果汁",
+                    "original_price": 36,
+                    "packing_fee": 2,
+                    "price": 25.92,
+                    "reason": "",
+                    "restaurant_id": 161227963,
+                    "restaurant_name": "唯客东海虾饭（广渠门店）",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=751618819&restaurant_id=161227963&category_id=531706113",
+                    "sku_id": "370017670411",
+                    "stock": 10000
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=323436&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%201298548202%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=1298548202&auto_expand_cart_view=1&animation_type=1&category_id=529672612&type=0",
+                    "category_id": 529672612,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 1298548202,
+                    "food_rate": "33人好评",
+                    "icon_name": "折",
+                    "id": 1298548202,
+                    "image_path": "e16f714cb3dc83151707d03fef5174b7jpeg",
+                    "is_new": true,
+                    "month_sales": 198,
+                    "name": "大椒盐皮皮虾",
+                    "original_price": 99,
+                    "packing_fee": 0,
+                    "price": 49.5,
+                    "reason": "",
+                    "restaurant_id": 323436,
+                    "restaurant_name": "麻辣诱惑·麻辣小龙虾·麻小外卖",
+                    "satisfy_count": 33,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=1298548202&restaurant_id=323436&category_id=529672612",
+                    "sku_id": "200000100913359715",
+                    "stock": 9987
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=143211091&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20730028877%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=730028877&auto_expand_cart_view=1&animation_type=1&category_id=530172364&type=0",
+                    "category_id": 530172364,
+                    "discount_activity": "",
+                    "discount_rate": 0.8,
+                    "food_id": 730028877,
+                    "food_rate": "1人好评",
+                    "icon_name": "特",
+                    "id": 730028877,
+                    "image_path": "20eb7e60d9484870d9ba80ae9350cc23jpeg",
+                    "is_new": false,
+                    "month_sales": 4,
+                    "name": "哈哈镜鸭脖辣",
+                    "original_price": 20,
+                    "packing_fee": 0,
+                    "price": 16,
+                    "reason": "",
+                    "restaurant_id": 143211091,
+                    "restaurant_name": "哈哈镜",
+                    "satisfy_count": 1,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=730028877&restaurant_id=143211091&category_id=530172364",
+                    "sku_id": "347909570214",
+                    "stock": 9418
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=155851018&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20638081524%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=638081524&auto_expand_cart_view=1&animation_type=1&category_id=516111193&type=0",
+                    "category_id": 516111193,
+                    "discount_activity": "",
+                    "discount_rate": 0.8,
+                    "food_id": 638081524,
+                    "food_rate": "7人好评",
+                    "icon_name": "特",
+                    "id": 638081524,
+                    "image_path": "9c9558dee359a8a2633f3a4b0fcbb0dajpeg",
+                    "is_new": false,
+                    "month_sales": 27,
+                    "name": "哈哈镜腐竹辣",
+                    "original_price": 15,
+                    "packing_fee": 0,
+                    "price": 12,
+                    "reason": "",
+                    "restaurant_id": 155851018,
+                    "restaurant_name": "哈哈镜十里河店",
+                    "satisfy_count": 7,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=638081524&restaurant_id=155851018&category_id=516111193",
+                    "sku_id": "253755480788",
+                    "stock": 9771
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=159256138&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20726967773%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=726967773&auto_expand_cart_view=1&animation_type=1&category_id=529879923&type=0",
+                    "category_id": 529879923,
+                    "discount_activity": "",
+                    "discount_rate": 0.8,
+                    "food_id": 726967773,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 726967773,
+                    "image_path": "eb8a86670f434c34e6b6eb03253c7792jpeg",
+                    "is_new": false,
+                    "month_sales": 1,
+                    "name": "哈哈镜鸭心辣",
+                    "original_price": 16,
+                    "packing_fee": 0,
+                    "price": 12.8,
+                    "reason": "",
+                    "restaurant_id": 159256138,
+                    "restaurant_name": "哈哈镜(天坛店）",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=726967773&restaurant_id=159256138&category_id=529879923",
+                    "sku_id": "344774999544",
+                    "stock": 9914
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=143211091&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20730028902%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=730028902&auto_expand_cart_view=1&animation_type=1&category_id=530162373&type=0",
+                    "category_id": 530162373,
+                    "discount_activity": "",
+                    "discount_rate": 0.8,
+                    "food_id": 730028902,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 730028902,
+                    "image_path": "6cdb2e80067cf6b350da9cfe4c62ccaejpeg",
+                    "is_new": false,
+                    "month_sales": 2,
+                    "name": "哈哈镜毛豆辣",
+                    "original_price": 13,
+                    "packing_fee": 0,
+                    "price": 10.4,
+                    "reason": "",
+                    "restaurant_id": 143211091,
+                    "restaurant_name": "哈哈镜",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=730028902&restaurant_id=143211091&category_id=530162373",
+                    "sku_id": "347909595814",
+                    "stock": 9685
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=155851018&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20638052685%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=638052685&auto_expand_cart_view=1&animation_type=1&category_id=516103952&type=0",
+                    "category_id": 516103952,
+                    "discount_activity": "",
+                    "discount_rate": 0.8,
+                    "food_id": 638052685,
+                    "food_rate": "3人好评",
+                    "icon_name": "特",
+                    "id": 638052685,
+                    "image_path": "e735a6a62eca364f1fb8a58ac3f1de0ejpeg",
+                    "is_new": false,
+                    "month_sales": 15,
+                    "name": "哈哈镜鸭心辣",
+                    "original_price": 15,
+                    "packing_fee": 0,
+                    "price": 12,
+                    "reason": "",
+                    "restaurant_id": 155851018,
+                    "restaurant_name": "哈哈镜十里河店",
+                    "satisfy_count": 3,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=638052685&restaurant_id=155851018&category_id=516103952",
+                    "sku_id": "253725949652",
+                    "stock": 9893
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=159256138&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20726967850%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=726967850&auto_expand_cart_view=1&animation_type=1&category_id=529884683&type=0",
+                    "category_id": 529884683,
+                    "discount_activity": "",
+                    "discount_rate": 0.8,
+                    "food_id": 726967850,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 726967850,
+                    "image_path": "980f0bd4bdb1d9fdd2360b86f3c194d0jpeg",
+                    "is_new": false,
+                    "month_sales": 0,
+                    "name": "哈哈镜黑木耳辣",
+                    "original_price": 13,
+                    "packing_fee": 0,
+                    "price": 10.4,
+                    "reason": "",
+                    "restaurant_id": 159256138,
+                    "restaurant_name": "哈哈镜(天坛店）",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=726967850&restaurant_id=159256138&category_id=529884683",
+                    "sku_id": "344775078392",
+                    "stock": 9916
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=160239580&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20735030415%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=735030415&auto_expand_cart_view=1&animation_type=1&category_id=530531522&type=0",
+                    "category_id": 530531522,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 735030415,
+                    "food_rate": "25人好评",
+                    "icon_name": "特",
+                    "id": 735030415,
+                    "image_path": "e366f8891e1448b078385c449c84c23cjpeg",
+                    "is_new": false,
+                    "month_sales": 153,
+                    "name": "羊肉串10串",
+                    "original_price": 28.9,
+                    "packing_fee": 1,
+                    "price": 14.45,
+                    "reason": "",
+                    "restaurant_id": 160239580,
+                    "restaurant_name": "望京小腰（朝内店）",
+                    "satisfy_count": 25,
+                    "satisfy_rate": 92,
+                    "scheme": "eleme://catering?target_food_id=735030415&restaurant_id=160239580&category_id=530531522",
+                    "sku_id": "353031145280",
+                    "stock": 9804
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "1折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "1折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=154349262&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20580307783%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=580307783&auto_expand_cart_view=1&animation_type=1&category_id=514095259&type=0",
+                    "category_id": 514095259,
+                    "discount_activity": "",
+                    "discount_rate": 0.1,
+                    "food_id": 580307783,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 580307783,
+                    "image_path": "b6658fe623edda8c84b51bf2ff455181jpeg",
+                    "is_new": false,
+                    "month_sales": 2,
+                    "name": "雪碧-330ml",
+                    "original_price": 4,
+                    "packing_fee": 0,
+                    "price": 0.4,
+                    "reason": "",
+                    "restaurant_id": 154349262,
+                    "restaurant_name": "哈哈镜",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=580307783&restaurant_id=154349262&category_id=514095259",
+                    "sku_id": "194595169286",
+                    "stock": 981
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "1折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "1折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=154349262&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20603545528%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=603545528&auto_expand_cart_view=1&animation_type=1&category_id=514095259&type=0",
+                    "category_id": 514095259,
+                    "discount_activity": "",
+                    "discount_rate": 0.1,
+                    "food_id": 603545528,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 603545528,
+                    "image_path": "e980eefbd17eec2c92d8b80c426db629jpeg",
+                    "is_new": false,
+                    "month_sales": 3,
+                    "name": "可口可乐-330ml",
+                    "original_price": 4,
+                    "packing_fee": 0,
+                    "price": 0.4,
+                    "reason": "",
+                    "restaurant_id": 154349262,
+                    "restaurant_name": "哈哈镜",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=603545528&restaurant_id=154349262&category_id=514095259",
+                    "sku_id": "218390620166",
+                    "stock": 9965
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=160239580&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20735007825%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=735007825&auto_expand_cart_view=1&animation_type=1&category_id=530531522&type=0",
+                    "category_id": 530531522,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 735007825,
+                    "food_rate": "10人好评",
+                    "icon_name": "特",
+                    "id": 735007825,
+                    "image_path": "0793000cbd9c66fce271c4deb076c110jpeg",
+                    "is_new": false,
+                    "month_sales": 61,
+                    "name": "羊肉筋10串",
+                    "original_price": 28.9,
+                    "packing_fee": 1,
+                    "price": 14.45,
+                    "reason": "",
+                    "restaurant_id": 160239580,
+                    "restaurant_name": "望京小腰（朝内店）",
+                    "satisfy_count": 10,
+                    "satisfy_rate": 90,
+                    "scheme": "eleme://catering?target_food_id=735007825&restaurant_id=160239580&category_id=530531522",
+                    "sku_id": "353008013120",
+                    "stock": 9920
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=155296785&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20731273729%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=731273729&auto_expand_cart_view=1&animation_type=1&category_id=530261468&type=0",
+                    "category_id": 530261468,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 731273729,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 731273729,
+                    "image_path": "5add8ce4ad563c906fc920f3bf5382afjpeg",
+                    "is_new": false,
+                    "month_sales": 1,
+                    "name": "哈哈镜泡椒凤爪塑封装",
+                    "original_price": 26,
+                    "packing_fee": 0,
+                    "price": 13,
+                    "reason": "",
+                    "restaurant_id": 155296785,
+                    "restaurant_name": "哈哈镜（宣武门店）",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=731273729&restaurant_id=155296785&category_id=530261468",
+                    "sku_id": "349184298518",
+                    "stock": 9995
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=155296785&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20731277709%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=731277709&auto_expand_cart_view=1&animation_type=1&category_id=530261468&type=0",
+                    "category_id": 530261468,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 731277709,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 731277709,
+                    "image_path": "8d2b375e3c8d65dbfdc598acdfb1e754jpeg",
+                    "is_new": false,
+                    "month_sales": 1,
+                    "name": "哈哈镜卤鸭脖塑封装",
+                    "original_price": 26,
+                    "packing_fee": 0,
+                    "price": 13,
+                    "reason": "",
+                    "restaurant_id": 155296785,
+                    "restaurant_name": "哈哈镜（宣武门店）",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=731277709&restaurant_id=155296785&category_id=530261468",
+                    "sku_id": "349188374038",
+                    "stock": 9995
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=323436&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20547817937%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=547817937&auto_expand_cart_view=1&animation_type=1&category_id=511637932&type=0",
+                    "category_id": 511637932,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 547817937,
+                    "food_rate": "20人好评",
+                    "icon_name": "折",
+                    "id": 547817937,
+                    "image_path": "97071c31dd747d55dff6efc4082de53ejpeg",
+                    "is_new": false,
+                    "month_sales": 132,
+                    "name": "微辣鸭脖",
+                    "original_price": 22,
+                    "packing_fee": 0,
+                    "price": 11,
+                    "reason": "",
+                    "restaurant_id": 323436,
+                    "restaurant_name": "麻辣诱惑·麻辣小龙虾·麻小外卖",
+                    "satisfy_count": 20,
+                    "satisfy_rate": 95,
+                    "scheme": "eleme://catering?target_food_id=547817937&restaurant_id=323436&category_id=511637932",
+                    "sku_id": "161325567843",
+                    "stock": 9901
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=156188497&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20734056774%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=734056774&auto_expand_cart_view=1&animation_type=1&category_id=524844604&type=0",
+                    "category_id": 524844604,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 734056774,
+                    "food_rate": "1人好评",
+                    "icon_name": "特",
+                    "id": 734056774,
+                    "image_path": "55b9c4666d11d404e0295c17a7434f36jpeg",
+                    "is_new": false,
+                    "month_sales": 3,
+                    "name": "哈哈镜花蛤辣买一送一",
+                    "original_price": 50,
+                    "packing_fee": 0,
+                    "price": 25,
+                    "reason": "",
+                    "restaurant_id": 156188497,
+                    "restaurant_name": "哈哈镜(知春路店)",
+                    "satisfy_count": 1,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=734056774&restaurant_id=156188497&category_id=524844604",
+                    "sku_id": "352034136787",
+                    "stock": 9993
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "6.9折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "6.9折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=1327758&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20130711101%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=130711101&auto_expand_cart_view=1&animation_type=1&category_id=12928380&type=0",
+                    "category_id": 12928380,
+                    "discount_activity": "",
+                    "discount_rate": 0.69,
+                    "food_id": 130711101,
+                    "food_rate": "20人好评",
+                    "icon_name": "特",
+                    "id": 130711101,
+                    "image_path": "b01662fc8aa2fcb706221446a3eda238jpeg",
+                    "is_new": false,
+                    "month_sales": 89,
+                    "name": "清蒸母蟹",
+                    "original_price": 138,
+                    "packing_fee": 0,
+                    "price": 95.22,
+                    "reason": "",
+                    "restaurant_id": 1327758,
+                    "restaurant_name": "狠角色阳澄湖大闸蟹",
+                    "satisfy_count": 20,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=130711101&restaurant_id=1327758&category_id=12928380",
+                    "sku_id": "13666984915",
+                    "stock": 9318
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "6.9折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "6.9折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=161306989&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20757318761%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=757318761&auto_expand_cart_view=1&animation_type=1&category_id=532084489&type=0",
+                    "category_id": 532084489,
+                    "discount_activity": "",
+                    "discount_rate": 0.69,
+                    "food_id": 757318761,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 757318761,
+                    "image_path": "9608d84704a88bc04c8ff9cb685ae0c5jpeg",
+                    "is_new": false,
+                    "month_sales": 3,
+                    "name": "香辣蟹小份（2只海蟹）",
+                    "original_price": 88,
+                    "packing_fee": 1,
+                    "price": 60.72,
+                    "reason": "",
+                    "restaurant_id": 161306989,
+                    "restaurant_name": "海贼王の私房海鲜料理",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=757318761&restaurant_id=161306989&category_id=532084489",
+                    "sku_id": "375854411405",
+                    "stock": 9997
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "9折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "9折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=154924332&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20716188513%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=716188513&auto_expand_cart_view=1&animation_type=1&category_id=528861893&type=0",
+                    "category_id": 528861893,
+                    "discount_activity": "",
+                    "discount_rate": 0.9,
+                    "food_id": 716188513,
+                    "food_rate": "1人好评",
+                    "icon_name": "特",
+                    "id": 716188513,
+                    "image_path": "7897cb175698fc3d71548aa62455bcf6jpeg",
+                    "is_new": false,
+                    "month_sales": 2,
+                    "name": "【特色】麻辣海螺丝",
+                    "original_price": 38,
+                    "packing_fee": 0,
+                    "price": 34.2,
+                    "reason": "",
+                    "restaurant_id": 154924332,
+                    "restaurant_name": "麻辣B海鲜小咖",
+                    "satisfy_count": 1,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=716188513&restaurant_id=154924332&category_id=528861893",
+                    "sku_id": "333737037383",
+                    "stock": 9995
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8.5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8.5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=152328834&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20730382133%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=730382133&auto_expand_cart_view=1&animation_type=1&category_id=530189685&type=0",
+                    "category_id": 530189685,
+                    "discount_activity": "",
+                    "discount_rate": 0.85,
+                    "food_id": 730382133,
+                    "food_rate": "1人好评",
+                    "icon_name": "特",
+                    "id": 730382133,
+                    "image_path": "e2434523f054db18b333cc9b48578430jpeg",
+                    "is_new": false,
+                    "month_sales": 1,
+                    "name": "得益懒人火锅（牛肉米线版）",
+                    "original_price": 35,
+                    "packing_fee": 0,
+                    "price": 29.75,
+                    "reason": "",
+                    "restaurant_id": 152328834,
+                    "restaurant_name": "得益懒人火锅",
+                    "satisfy_count": 1,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=730382133&restaurant_id=152328834&category_id=530189685",
+                    "sku_id": "348271303758",
+                    "stock": 9992
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "8.5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "8.5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=152328834&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20730396154%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=730396154&auto_expand_cart_view=1&animation_type=1&category_id=530189685&type=0",
+                    "category_id": 530189685,
+                    "discount_activity": "",
+                    "discount_rate": 0.85,
+                    "food_id": 730396154,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 730396154,
+                    "image_path": "6fe10dfb21f078576127f5cfe29726a3jpeg",
+                    "is_new": false,
+                    "month_sales": 1,
+                    "name": "得意懒人火锅（牛杂米线版）",
+                    "original_price": 35,
+                    "packing_fee": 0,
+                    "price": 29.75,
+                    "reason": "",
+                    "restaurant_id": 152328834,
+                    "restaurant_name": "得益懒人火锅",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=730396154&restaurant_id=152328834&category_id=530189685",
+                    "sku_id": "348285661262",
+                    "stock": 9996
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5.5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5.5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=155768848&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20729200912%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=729200912&auto_expand_cart_view=1&animation_type=1&category_id=530144256&type=0",
+                    "category_id": 530144256,
+                    "discount_activity": "",
+                    "discount_rate": 0.55,
+                    "food_id": 729200912,
+                    "food_rate": "0人好评",
+                    "icon_name": "特",
+                    "id": 729200912,
+                    "image_path": "c03e6ca6ce793a54793eeadc4f324727jpeg",
+                    "is_new": false,
+                    "month_sales": 3,
+                    "name": "酸菜鱼",
+                    "original_price": 108,
+                    "packing_fee": 2,
+                    "price": 59.4,
+                    "reason": "",
+                    "restaurant_id": 155768848,
+                    "restaurant_name": "蟹鲜生阳澄湖大闸蟹",
+                    "satisfy_count": 0,
+                    "satisfy_rate": 0,
+                    "scheme": "eleme://catering?target_food_id=729200912&restaurant_id=155768848&category_id=530144256",
+                    "sku_id": "347061734068",
+                    "stock": 996
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "5折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "5折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=909329&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%2087072672%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=87072672&auto_expand_cart_view=1&animation_type=1&category_id=8453811&type=0",
+                    "category_id": 8453811,
+                    "discount_activity": "",
+                    "discount_rate": 0.5,
+                    "food_id": 87072672,
+                    "food_rate": "5人好评",
+                    "icon_name": "特",
+                    "id": 87072672,
+                    "image_path": "b3dfc54255cf1eda37aad8f344175138jpeg",
+                    "is_new": false,
+                    "month_sales": 21,
+                    "name": "美蛙辣炒花蛤",
+                    "original_price": 38,
+                    "packing_fee": 2,
+                    "price": 19,
+                    "reason": "",
+                    "restaurant_id": 909329,
+                    "restaurant_name": "美蛙私厨（总店）",
+                    "satisfy_count": 5,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=87072672&restaurant_id=909329&category_id=8453811",
+                    "sku_id": "12953364088",
+                    "stock": 9972
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "6折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "6折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=404897&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20734609894%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=734609894&auto_expand_cart_view=1&animation_type=1&category_id=3039482&type=0",
+                    "category_id": 3039482,
+                    "discount_activity": "",
+                    "discount_rate": 0.6,
+                    "food_id": 734609894,
+                    "food_rate": "1人好评",
+                    "icon_name": "特",
+                    "id": 734609894,
+                    "image_path": "8283998f608dc9c0224ff7624aa1d9aejpeg",
+                    "is_new": false,
+                    "month_sales": 3,
+                    "name": "辣白菜炸鸡饭+可乐",
+                    "original_price": 32,
+                    "packing_fee": 2,
+                    "price": 19.2,
+                    "reason": "",
+                    "restaurant_id": 404897,
+                    "restaurant_name": "兄鸡（簋街店）",
+                    "satisfy_count": 1,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=734609894&restaurant_id=404897&category_id=3039482",
+                    "sku_id": "352600531230",
+                    "stock": 9996
+                }
+            ]
+        },
+        {
+            "foods": [
+                {
+                    "activities": [
+                        {
+                            "background": {
+                                "rgb_from": "FF822D",
+                                "rgb_to": "FF2A00"
+                            },
+                            "description": "6折",
+                            "icon_color": "F07373",
+                            "icon_name": "折",
+                            "id": 0,
+                            "name": "立减优惠",
+                            "tips": "6折"
+                        }
+                    ],
+                    "cart_link": "eleme://restaurant?restaurant_id=404897&cart_operations=%7B%22add_foods%22%3A%20%5B%7B%22specs%22%3A%20%5B%5D%2C%20%22id%22%3A%20734592954%2C%20%22quantity%22%3A%201%7D%5D%7D&target_food_id=734592954&auto_expand_cart_view=1&animation_type=1&category_id=3039482&type=0",
+                    "category_id": 3039482,
+                    "discount_activity": "",
+                    "discount_rate": 0.6,
+                    "food_id": 734592954,
+                    "food_rate": "3人好评",
+                    "icon_name": "特",
+                    "id": 734592954,
+                    "image_path": "78fd3a17098be629e77d969023b3c1a7jpeg",
+                    "is_new": false,
+                    "month_sales": 8,
+                    "name": "辣炒章鱼盖饭+可乐",
+                    "original_price": 36,
+                    "packing_fee": 2,
+                    "price": 21.6,
+                    "reason": "",
+                    "restaurant_id": 404897,
+                    "restaurant_name": "兄鸡（簋街店）",
+                    "satisfy_count": 3,
+                    "satisfy_rate": 100,
+                    "scheme": "eleme://catering?target_food_id=734592954&restaurant_id=404897&category_id=3039482",
+                    "sku_id": "352583184670",
+                    "stock": 9987
+                }
+            ]
+        }
+    ],
+    "rank_id": "4e8bb750ccf54afc8a277beabad98cbb",
+    "rules": " ",
+    "tabs": [
+        {
+            "name": "全部",
+            "params": {
+                "flavor_type": "1"
+            }
+        },
+        {
+            "name": "大牌特惠",
+            "params": {
+                "flavor_type": "2"
+            }
+        },
+        {
+            "name": "下午茶不贵",
+            "params": {
+                "flavor_type": "3"
+            }
+        },
+        {
+            "name": "商超百货",
+            "params": {
+                "flavor_type": "4"
+            }
+        },
+        {
+            "name": "水果生鲜",
+            "params": {
+                "flavor_type": "5"
+            }
+        },
+        {
+            "name": "鲜花蛋糕",
+            "params": {
+                "flavor_type": "6"
+            }
+        }
+    ]
+}

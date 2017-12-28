@@ -1,0 +1,22 @@
+[
+    {
+        "count": 623,
+        "name": "全部",
+        "unsatisfied": false
+    },
+    {
+        "count": 612,
+        "name": "满意",
+        "unsatisfied": false
+    },
+    {
+        "count": 11,
+        "name": "不满意",
+        "unsatisfied": true
+    },
+    {
+        "count": 15,
+        "name": "有图",
+        "unsatisfied": false
+    }
+]

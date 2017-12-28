@@ -1,0 +1,2860 @@
+[
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 682449289,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"59\": {\"1\": 10.0, \"0\": 0}}",
+                "description": "满59减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 246775114,
+                "is_exclusive_with_food_activity": false,
+                "name": "e点便利满减活动",
+                "tips": "满59减10",
+                "type": 102
+            },
+            {
+                "description": "晚八秒杀(限20:00-23:59)",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 245868954,
+                "name": "晚八秒杀",
+                "tips": "晚八秒杀"
+            },
+            {
+                "description": "白酒啤酒黄酒8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211372722,
+                "name": "白酒啤酒黄酒8折",
+                "tips": "白酒啤酒黄酒8折"
+            },
+            {
+                "description": "冲饮8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211371914,
+                "name": "冲饮8折",
+                "tips": "冲饮8折"
+            },
+            {
+                "description": "饮料/水 7折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211370754,
+                "name": "饮料/水 7折",
+                "tips": "饮料/水 7折"
+            },
+            {
+                "description": "休闲零食6折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211369458,
+                "name": "休闲零食6折",
+                "tips": "休闲零食6折"
+            },
+            {
+                "description": "牛奶乳酸菌 6折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211367530,
+                "name": "牛奶乳酸菌 6折",
+                "tips": "牛奶乳酸菌 6折"
+            },
+            {
+                "description": "薯片1.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211365138,
+                "name": "薯片1.99元抢",
+                "tips": "薯片1.99元抢"
+            },
+            {
+                "description": "可乐0.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211363130,
+                "name": "可乐0.99元抢",
+                "tips": "可乐0.99元抢"
+            },
+            {
+                "description": "味全1.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 144373682,
+                "name": "味全1.99元抢",
+                "tips": "味全1.99元抢"
+            },
+            {
+                "description": "进店领3元代金券",
+                "icon_color": "ffac2a",
+                "icon_name": "领",
+                "id": -1,
+                "name": "到店领代金券",
+                "tips": "进店领3元代金券"
+            }
+        ],
+        "address": "北京市西城区粮食店街39号02A",
+        "authentic_id": 4322190538683498,
+        "description": "啤酒饮料矿泉水，花生瓜子八宝粥。熟悉的台词，不变的我们。本店经营食品、饮料、酒水、日用百货等海量商品,足不出户，下单立减，快速送达！服务电话13121780595",
+        "distance": 2049,
+        "favored": false,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 29,
+        "folding_restaurant_brand": "e点便利",
+        "folding_restaurants": [
+            {
+                "distance": 2110,
+                "id": 2175096,
+                "name": "E点便利（朝阳门南小街店）",
+                "order_lead_time": 27,
+                "scheme": "eleme://retail_store?re_store_id=2175096",
+                "type": 1
+            },
+            {
+                "distance": 2843,
+                "id": 683791,
+                "name": "E点便利（安化北里店）",
+                "order_lead_time": 26,
+                "scheme": "eleme://retail_store?re_store_id=683791",
+                "type": 1
+            },
+            {
+                "distance": 3979,
+                "id": 154890708,
+                "name": "E点便利（世贸天街店）",
+                "order_lead_time": 39,
+                "scheme": "eleme://retail_store?re_store_id=154890708",
+                "type": 1
+            },
+            {
+                "distance": 4850,
+                "id": 603334,
+                "name": "E点便利（朝阳双井店）",
+                "order_lead_time": 39,
+                "scheme": "eleme://retail_store?re_store_id=603334",
+                "type": 1
+            },
+            {
+                "distance": 7891,
+                "id": 647143,
+                "name": "E点便利（八里庄东里店）",
+                "order_lead_time": 29,
+                "scheme": "eleme://retail_store?re_store_id=647143",
+                "type": 1
+            }
+        ],
+        "id": 151001398,
+        "image_path": "9c04b914bad211c1bd318e5515cc7cf8png.png",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.894139,
+        "longitude": 116.39691,
+        "max_applied_quantity_per_order": -1,
+        "name": "E点便利（粮食街店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/24:00"
+        ],
+        "order_lead_time": 37,
+        "phone": "13121780595",
+        "piecewise_agent_fee": {
+            "description": "配送费¥5",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 29
+                }
+            ],
+            "tips": "配送费¥5"
+        },
+        "promotion_info": "简单生活，上E点。每周一、二店铺品牌日，1元特价，5元代金券，大额满减，尽在E点便利。",
+        "rating": 4.6,
+        "rating_count": 0,
+        "recent_order_num": 278,
+        "recommend": {
+            "color": "#e8470b",
+            "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png.png",
+            "is_ad": false,
+            "reason": "口碑人气好店"
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=151001398",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "{\"59\": {\"1\": 5.0, \"0\": 0.0}, \"39\": {\"1\": 3.0, \"0\": 0.0}}",
+                "description": "满39减3，满59减5",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 246194522,
+                "is_exclusive_with_food_activity": false,
+                "name": "S级饿了么满减",
+                "tips": "满39减3，满59减5",
+                "type": 102
+            },
+            {
+                "description": "拌嘴零食-85折",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 244466138,
+                "name": "拌嘴零食-85折",
+                "tips": "拌嘴零食-85折"
+            },
+            {
+                "description": "拌嘴零食-85折",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 244458650,
+                "name": "拌嘴零食-85折",
+                "tips": "拌嘴零食-85折"
+            },
+            {
+                "description": "冬日专享-②",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 240776298,
+                "name": "冬日专享-②",
+                "tips": "冬日专享-②"
+            },
+            {
+                "description": "冬日专享-①",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 240676154,
+                "name": "冬日专享-①",
+                "tips": "冬日专享-①"
+            },
+            {
+                "description": "可乐一元秒",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 238862418,
+                "name": "可乐一元秒",
+                "tips": "可乐一元秒"
+            }
+        ],
+        "address": "杭州市西湖区文一西路830号蒋村商务中心B楼1-501室",
+        "authentic_id": 4372120527915893,
+        "description": "",
+        "distance": 2349,
+        "favored": false,
+        "float_delivery_fee": 4,
+        "float_minimum_order_amount": 29,
+        "id": 1135993,
+        "image_path": "218179f2d9397c82fc24ca5f8ff50864jpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.89797,
+        "longitude": 116.42479,
+        "max_applied_quantity_per_order": -1,
+        "name": "闪电购便利店(崇文门店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/22:00"
+        ],
+        "order_lead_time": 39,
+        "phone": "15300191040",
+        "piecewise_agent_fee": {
+            "description": "配送费¥4",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 4,
+                    "price": 29
+                }
+            ],
+            "tips": "配送费¥4"
+        },
+        "promotion_info": "",
+        "rating": 4.7,
+        "rating_count": 0,
+        "recent_order_num": 403,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=1135993",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 677203225,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "description": "特惠9.9",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 246677818,
+                "name": "特惠9.9",
+                "tips": "特惠9.9"
+            },
+            {
+                "description": "特惠八五折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 246671482,
+                "name": "特惠八五折",
+                "tips": "特惠八五折"
+            },
+            {
+                "description": "八折特惠",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 246669346,
+                "name": "八折特惠",
+                "tips": "八折特惠"
+            },
+            {
+                "description": "特惠8折，邻家惠",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 246633050,
+                "name": "特惠8折，邻家惠",
+                "tips": "特惠8折，邻家惠"
+            },
+            {
+                "description": "蒂佳婷水动力舒缓补水面膜5片",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 243042442,
+                "name": "蒂佳婷水动力舒缓补水面膜5片",
+                "tips": "蒂佳婷水动力舒缓补水面膜5片"
+            },
+            {
+                "description": "雪花勇闯天涯500ml*12罐/箱",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 243041122,
+                "name": "雪花勇闯天涯500ml*12罐/箱",
+                "tips": "雪花勇闯天涯500ml*12罐/箱"
+            },
+            {
+                "description": "整件购雪花清爽8度500ml*12罐/箱",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 243039802,
+                "name": "整件购雪花清爽8度500ml*12罐/箱",
+                "tips": "整件购雪花清爽8度500ml*12罐/箱"
+            },
+            {
+                "description": "整件购特仑苏原味纯牛奶250mlg*12盒/箱",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 243039442,
+                "name": "整件购特仑苏原味纯牛奶250mlg*12盒/箱",
+                "tips": "整件购特仑苏原味纯牛奶250mlg*12盒/箱"
+            },
+            {
+                "description": "整件购9.9",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 243039146,
+                "name": "整件购9.9",
+                "tips": "整件购9.9"
+            },
+            {
+                "description": "整件购特惠",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 243036234,
+                "name": "整件购特惠",
+                "tips": "整件购特惠"
+            },
+            {
+                "description": "伊利安慕希希腊酸奶205g*12盒/箱",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 207505234,
+                "name": "伊利安慕希希腊酸奶205g*12盒/箱",
+                "tips": "伊利安慕希希腊酸奶205g*12盒/箱"
+            },
+            {
+                "description": "伊利安慕希蓝莓风味酸奶205gg*12盒/箱",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 207386578,
+                "name": "伊利安慕希蓝莓风味酸奶205gg*12盒/箱",
+                "tips": "伊利安慕希蓝莓风味酸奶205gg*12盒/箱"
+            },
+            {
+                "description": "清风150抽3包原木纯品金装（3包）15.8元",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 188606362,
+                "name": "清风150抽3包原木纯品金装（3包）15.8元",
+                "tips": "清风150抽3包原木纯品金装（3包）15.8元"
+            },
+            {
+                "description": "春雨蜂蜜面膜25g*10片158",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 188602042,
+                "name": "春雨蜂蜜面膜25g*10片158",
+                "tips": "春雨蜂蜜面膜25g*10片158"
+            },
+            {
+                "description": "萱草暖贴—卡通暖身贴10贴18.9",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 188591266,
+                "name": "萱草暖贴—卡通暖身贴10贴18.9",
+                "tips": "萱草暖贴—卡通暖身贴10贴18.9"
+            },
+            {
+                "description": "38.8星巴克特惠",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 188580962,
+                "name": "38.8星巴克特惠",
+                "tips": "38.8星巴克特惠"
+            }
+        ],
+        "address": "北京市西城区北礼士路98，甲98号1幢4层466、468室",
+        "authentic_id": 1332190527941623,
+        "delivery_mode": {
+            "border": "",
+            "color": "2395FF",
+            "gradient": {
+                "rgb_from": "00AAFF",
+                "rgb_to": "0085FF"
+            },
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送",
+            "text_color": "FFFFFF"
+        },
+        "description": "您身边的24小时便利店，为您甄选优质商品\n\n精选为你，就是惊喜不停",
+        "distance": 1361,
+        "favored": false,
+        "float_delivery_fee": 6,
+        "float_minimum_order_amount": 20,
+        "folding_restaurant_brand": "邻家便利店",
+        "folding_restaurants": [
+            {
+                "distance": 1053,
+                "id": 150039715,
+                "name": "邻家便利店（东兴隆街店）",
+                "order_lead_time": 29,
+                "scheme": "eleme://retail_store?re_store_id=150039715",
+                "type": 1
+            },
+            {
+                "distance": 1726,
+                "id": 150039658,
+                "name": "邻家便利店（灯市口大街店）",
+                "order_lead_time": 30,
+                "scheme": "eleme://retail_store?re_store_id=150039658",
+                "type": 1
+            },
+            {
+                "distance": 1818,
+                "id": 150039725,
+                "name": "邻家便利店（磁器口店）",
+                "order_lead_time": 33,
+                "scheme": "eleme://retail_store?re_store_id=150039725",
+                "type": 1
+            },
+            {
+                "distance": 2260,
+                "id": 150039717,
+                "name": "邻家便利店（广渠门内大街店）",
+                "order_lead_time": 31,
+                "scheme": "eleme://retail_store?re_store_id=150039717",
+                "type": 1
+            }
+        ],
+        "id": 150039723,
+        "image_path": "eac22ba8fe4912c4319f989d87d3ed1dpng.png",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.899219,
+        "longitude": 116.416066,
+        "max_applied_quantity_per_order": -1,
+        "name": "邻家便利店（东打磨厂店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/22:00"
+        ],
+        "order_lead_time": 29,
+        "phone": "18501992267",
+        "piecewise_agent_fee": {
+            "description": "配送费¥6",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 6,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥6"
+        },
+        "promotion_info": "来啦，每周甄选上新，为你惊喜不停！\n\n喜欢邻家可点击右上角【收藏商家】\n\n您在购物中有任何问题，请拨打下方商家电话，第一时间为您解决！",
+        "rating": 4.7,
+        "rating_count": 0,
+        "recent_order_num": 137,
+        "recommend": {
+            "color": "#e8470b",
+            "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png.png",
+            "is_ad": false,
+            "reason": "口碑人气好店"
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=150039723",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "{\"69\": 30}",
+                "description": "百草味专场:满69减30",
+                "icon_color": "f88615",
+                "icon_name": "减",
+                "id": 241932562,
+                "is_exclusive_with_food_activity": true,
+                "name": "百草味专场",
+                "tips": "百草味专场:满69减30",
+                "type": 109
+            },
+            {
+                "attribute": "{\"199\": 50}",
+                "description": "夜幕下的北京:满199减50",
+                "icon_color": "f88615",
+                "icon_name": "减",
+                "id": 240392786,
+                "is_exclusive_with_food_activity": true,
+                "name": "夜幕下的北京",
+                "tips": "夜幕下的北京:满199减50",
+                "type": 109
+            },
+            {
+                "attribute": "{\"99\": 50, \"69\": 30}",
+                "description": "百草味:满69减30，满99减50",
+                "icon_color": "f88615",
+                "icon_name": "减",
+                "id": 240392306,
+                "is_exclusive_with_food_activity": true,
+                "name": "百草味",
+                "tips": "百草味:满69减30，满99减50",
+                "type": 109
+            },
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 676808201,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"89\": {\"1\": 10.0, \"0\": 0}, \"59\": {\"1\": 7.0, \"0\": 0}, \"39\": {\"1\": 5.0, \"0\": 0}}",
+                "description": "满39减5，满59减7，满89减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 243177194,
+                "is_exclusive_with_food_activity": true,
+                "name": "E点",
+                "tips": "满39减5，满59减7，满89减10",
+                "type": 102
+            },
+            {
+                "attribute": "1.0",
+                "description": "本店新用户立减1元",
+                "icon_color": "00b762",
+                "icon_name": "新",
+                "id": 239862186,
+                "is_exclusive_with_food_activity": true,
+                "name": "门店新客立减",
+                "tips": "本店新用户立减1元",
+                "type": 108
+            },
+            {
+                "attribute": "{\"55.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u767e\\u5a01\\u5564\\u9152330ml\"}}",
+                "description": "满55元赠送百威啤酒330ml1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 223560674,
+                "is_exclusive_with_food_activity": true,
+                "name": "满55元赠送百威啤酒",
+                "tips": "满55元赠送百威啤酒330ml1份",
+                "type": 106
+            },
+            {
+                "description": "白酒啤酒黄酒8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211372722,
+                "name": "白酒啤酒黄酒8折",
+                "tips": "白酒啤酒黄酒8折"
+            },
+            {
+                "description": "冲饮8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211371914,
+                "name": "冲饮8折",
+                "tips": "冲饮8折"
+            },
+            {
+                "description": "饮料/水 7折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211370754,
+                "name": "饮料/水 7折",
+                "tips": "饮料/水 7折"
+            },
+            {
+                "description": "休闲零食6折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211369458,
+                "name": "休闲零食6折",
+                "tips": "休闲零食6折"
+            },
+            {
+                "description": "牛奶乳酸菌 6折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211367530,
+                "name": "牛奶乳酸菌 6折",
+                "tips": "牛奶乳酸菌 6折"
+            },
+            {
+                "description": "薯片1.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211365138,
+                "name": "薯片1.99元抢",
+                "tips": "薯片1.99元抢"
+            },
+            {
+                "description": "可乐0.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211363130,
+                "name": "可乐0.99元抢",
+                "tips": "可乐0.99元抢"
+            },
+            {
+                "description": "百事可乐1.99元购",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 205522802,
+                "name": "百事可乐1.99元购",
+                "tips": "百事可乐1.99元购"
+            },
+            {
+                "description": "味全1.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 144373682,
+                "name": "味全1.99元抢",
+                "tips": "味全1.99元抢"
+            },
+            {
+                "description": "下单可返3元代金券",
+                "icon_color": "ff7239",
+                "icon_name": "返",
+                "id": -3,
+                "name": "下单返代金券",
+                "tips": "下单可返3元代金券"
+            },
+            {
+                "description": "进店领4元代金券",
+                "icon_color": "ffac2a",
+                "icon_name": "领",
+                "id": -2,
+                "name": "到店领代金券",
+                "tips": "进店领4元代金券"
+            }
+        ],
+        "address": "西城区荣光胡同96号",
+        "authentic_id": 1352110533176546,
+        "description": "啤酒饮料矿泉水，花生瓜子八宝粥。熟悉的台词，不变的我们。本店经营食品、饮料、酒水、日用百货等海量商品,足不出户，下单立减，快速送达！服务电话15108243201",
+        "distance": 2874,
+        "favored": false,
+        "float_delivery_fee": 9.989999771118164,
+        "float_minimum_order_amount": 58.79999923706055,
+        "folding_restaurant_brand": "邻活便利",
+        "folding_restaurants": [
+            {
+                "distance": 3966,
+                "id": 602096,
+                "name": "邻活便利（朝阳门店）",
+                "order_lead_time": 38,
+                "scheme": "eleme://retail_store?re_store_id=602096",
+                "type": 1
+            },
+            {
+                "distance": 4913,
+                "id": 1051759,
+                "name": "邻活便利（朝阳国贸店）",
+                "order_lead_time": 39,
+                "scheme": "eleme://retail_store?re_store_id=1051759",
+                "type": 1
+            },
+            {
+                "distance": 5721,
+                "id": 150872638,
+                "name": "邻活便利（长虹桥店）",
+                "order_lead_time": 39,
+                "scheme": "eleme://retail_store?re_store_id=150872638",
+                "type": 1
+            },
+            {
+                "distance": 5800,
+                "id": 152111622,
+                "name": "邻活便利（荣丰2008小区店）",
+                "order_lead_time": 35,
+                "scheme": "eleme://retail_store?re_store_id=152111622",
+                "type": 1
+            },
+            {
+                "distance": 5933,
+                "id": 949366,
+                "name": "邻活便利（蓝堡大厦店）",
+                "order_lead_time": 38,
+                "scheme": "eleme://retail_store?re_store_id=949366",
+                "type": 1
+            },
+            {
+                "distance": 6239,
+                "id": 696967,
+                "name": "邻活便利（和平里九区店）",
+                "order_lead_time": 27,
+                "scheme": "eleme://retail_store?re_store_id=696967",
+                "type": 1
+            },
+            {
+                "distance": 8047,
+                "id": 151713282,
+                "name": "邻活便利（西站店）",
+                "order_lead_time": 48,
+                "scheme": "eleme://retail_store?re_store_id=151713282",
+                "type": 1
+            },
+            {
+                "distance": 9739,
+                "id": 1293307,
+                "name": "邻活便利（亚美伟业商贸中心）",
+                "order_lead_time": 39,
+                "scheme": "eleme://retail_store?re_store_id=1293307",
+                "type": 1
+            }
+        ],
+        "id": 1929546,
+        "image_path": "fd170616fe22d825b926193fb230a61bjpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.887012,
+        "longitude": 116.395309,
+        "max_applied_quantity_per_order": -1,
+        "name": "邻活便利（荣光胡同96号店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/03:45"
+        ],
+        "order_lead_time": 43,
+        "phone": "15108243201",
+        "piecewise_agent_fee": {
+            "description": "配送费¥9.99",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9.989999771118164,
+                    "price": 58.79999923706055
+                }
+            ],
+            "tips": "配送费¥9.99"
+        },
+        "promotion_info": "简单生活，上E点。每周一、二店铺品牌日，1元特价，5元代金券，大额满减，尽在E点便利。",
+        "rating": 4.8,
+        "rating_count": 0,
+        "recent_order_num": 326,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=1929546",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 677093857,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"59\": {\"1\": 10.0, \"0\": 0}}",
+                "description": "满59减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 246775114,
+                "is_exclusive_with_food_activity": false,
+                "name": "e点便利满减活动",
+                "tips": "满59减10",
+                "type": 102
+            },
+            {
+                "description": "晚八秒杀12.18-12.24(限19:30-23:00)",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 245974954,
+                "name": "晚八秒杀12.18-12.24",
+                "tips": "晚八秒杀12.18-12.24"
+            },
+            {
+                "description": "双12特惠",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 241681090,
+                "name": "双12特惠",
+                "tips": "双12特惠"
+            },
+            {
+                "description": "一元秒杀",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 241632338,
+                "name": "一元秒杀",
+                "tips": "一元秒杀"
+            },
+            {
+                "description": "冬至食品8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 213773210,
+                "name": "冬至食品8折",
+                "tips": "冬至食品8折"
+            },
+            {
+                "description": "特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 212108650,
+                "name": "特价",
+                "tips": "特价"
+            },
+            {
+                "description": "9.9",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 212108314,
+                "name": "9.9",
+                "tips": "9.9"
+            },
+            {
+                "description": "特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 212107714,
+                "name": "特价",
+                "tips": "特价"
+            },
+            {
+                "description": "白酒啤酒黄酒8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211372722,
+                "name": "白酒啤酒黄酒8折",
+                "tips": "白酒啤酒黄酒8折"
+            },
+            {
+                "description": "冲饮8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211371914,
+                "name": "冲饮8折",
+                "tips": "冲饮8折"
+            },
+            {
+                "description": "饮料/水 7折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211370754,
+                "name": "饮料/水 7折",
+                "tips": "饮料/水 7折"
+            },
+            {
+                "description": "休闲零食6折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211369458,
+                "name": "休闲零食6折",
+                "tips": "休闲零食6折"
+            },
+            {
+                "description": "牛奶乳酸菌 6折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211367530,
+                "name": "牛奶乳酸菌 6折",
+                "tips": "牛奶乳酸菌 6折"
+            },
+            {
+                "description": "薯片1.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211365138,
+                "name": "薯片1.99元抢",
+                "tips": "薯片1.99元抢"
+            },
+            {
+                "description": "可乐0.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211363130,
+                "name": "可乐0.99元抢",
+                "tips": "可乐0.99元抢"
+            },
+            {
+                "attribute": "1.0",
+                "description": "本店新用户立减1元",
+                "icon_color": "00b762",
+                "icon_name": "新",
+                "id": 187556418,
+                "is_exclusive_with_food_activity": true,
+                "name": "门店新客立减",
+                "tips": "本店新用户立减1元",
+                "type": 108
+            },
+            {
+                "description": "味全1.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 144373682,
+                "name": "味全1.99元抢",
+                "tips": "味全1.99元抢"
+            },
+            {
+                "description": "进店领8-13元代金券",
+                "icon_color": "ffac2a",
+                "icon_name": "领",
+                "id": -4,
+                "name": "到店领代金券",
+                "tips": "进店领8-13元代金券"
+            }
+        ],
+        "address": "北京市东城区国瑞东路39号利天名业农副产品市场15号",
+        "authentic_id": 6342190531977581,
+        "bidding": "{\"core\":{\"index\":4,\"target\":{\"restaurantId\":150992881,\"weight\":250,\"probability\":0.02630000002682209},\"come_from\":1,\"next\":{\"restaurantId\":161076187,\"weight\":150,\"probability\":0.03669999912381172}}}",
+        "description": "啤酒饮料矿泉水，花生瓜子八宝粥。熟悉的台词，不变的我们。本店经营食品、饮料、酒水、日用百货等海量商品,足不出户，下单立减，快速送达！服务电话18510430133",
+        "distance": 2350,
+        "favored": false,
+        "float_delivery_fee": 6,
+        "float_minimum_order_amount": 29,
+        "id": 150992881,
+        "image_path": "9c04b914bad211c1bd318e5515cc7cf8png.png",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.897965,
+        "longitude": 116.424796,
+        "max_applied_quantity_per_order": -1,
+        "name": "E点便利（国瑞城东路店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/02:00"
+        ],
+        "order_lead_time": 31,
+        "phone": "18510430133",
+        "piecewise_agent_fee": {
+            "description": "配送费¥6",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 6,
+                    "price": 29
+                }
+            ],
+            "tips": "配送费¥6"
+        },
+        "promotion_info": "简单生活，上E点。每周一、二店铺品牌日，1元特价，5元代金券，大额满减，尽在E点便利。",
+        "rating": 4.8,
+        "rating_count": 0,
+        "recent_order_num": 495,
+        "recommend": {
+            "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg.jpeg",
+            "is_ad": true,
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=150992881",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 682523857,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            }
+        ],
+        "address": "北京市东城区崇文门西大街2-4",
+        "authentic_id": 8352190527667757,
+        "delivery_mode": {
+            "border": "",
+            "color": "2395FF",
+            "gradient": {
+                "rgb_from": "00AAFF",
+                "rgb_to": "0085FF"
+            },
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送",
+            "text_color": "FFFFFF"
+        },
+        "description": "",
+        "distance": 1423,
+        "favored": false,
+        "float_delivery_fee": 6,
+        "float_minimum_order_amount": 20,
+        "id": 156012157,
+        "image_path": "2a9afb3133347b1ac583b868dcda7e3apng.png",
+        "is_new": false,
+        "is_premium": true,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.900431,
+        "longitude": 116.417723,
+        "max_applied_quantity_per_order": -1,
+        "name": "粒上皇（崇文门店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:00"
+        ],
+        "order_lead_time": 38,
+        "phone": "15156835573",
+        "piecewise_agent_fee": {
+            "description": "配送费¥6",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 6,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥6"
+        },
+        "promotion_info": "",
+        "rating": 5,
+        "rating_count": 0,
+        "recent_order_num": 149,
+        "recommend": {
+            "color": "#e8470b",
+            "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png.png",
+            "is_ad": false,
+            "reason": "口碑人气好店",
+            "track": "{\"rankType\":\"18\"}"
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=156012157",
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 684219769,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"49\": {\"1\": 20.0, \"0\": 0}, \"29\": {\"1\": 5.0, \"0\": 0}, \"79\": {\"1\": 25.0, \"0\": 0}}",
+                "description": "满29减5，满49减20，满79减25",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 246775698,
+                "is_exclusive_with_food_activity": false,
+                "name": "邻活生鲜满减活动",
+                "tips": "满29减5，满49减20，满79减25",
+                "type": 102
+            },
+            {
+                "description": "砂糖橘5折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 238989570,
+                "name": "砂糖橘5折",
+                "tips": "砂糖橘5折"
+            }
+        ],
+        "address": "北京市东城区小雅宝胡同19号",
+        "authentic_id": 7362100539924122,
+        "description": "本店承诺，您所选购的每份水果都是鲜切现切，果汁都是现榨。我们所有努力，只为亲们吃上新鲜好水果，吃的放心。如果可以，请给五星好评支持。感谢",
+        "distance": 3252,
+        "favored": false,
+        "float_delivery_fee": 9,
+        "float_minimum_order_amount": 20,
+        "folding_restaurant_brand": "邻活生鲜",
+        "folding_restaurants": [
+            {
+                "distance": 2750,
+                "id": 1253954,
+                "name": "邻活生鲜水果超市（培新街店）",
+                "order_lead_time": 39,
+                "scheme": "eleme://retail_store?re_store_id=1253954",
+                "type": 1
+            },
+            {
+                "distance": 12582,
+                "id": 151687458,
+                "name": "邻活生鲜水果超市（定福庄店）",
+                "order_lead_time": 48,
+                "scheme": "eleme://retail_store?re_store_id=151687458",
+                "type": 1
+            }
+        ],
+        "id": 157079222,
+        "image_path": "60cb75bff4c9d74e666283d3a9cef97fpng.png",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.916977,
+        "longitude": 116.431744,
+        "max_applied_quantity_per_order": -1,
+        "name": "邻活生鲜水果超市（朝阳门店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:30/02:00"
+        ],
+        "order_lead_time": 38,
+        "phone": "18210788755 17662500818 15011160883",
+        "piecewise_agent_fee": {
+            "description": "配送费¥9",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 9,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥9"
+        },
+        "promotion_info": "新鲜生鲜，上邻活～",
+        "rating": 4.8,
+        "rating_count": 0,
+        "recent_order_num": 1207,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=157079222",
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额200元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 675140289,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            }
+        ],
+        "address": "北京市海淀区四道口2号院2号楼一层401",
+        "authentic_id": 1372110527393154,
+        "delivery_mode": {
+            "border": "",
+            "color": "2395FF",
+            "gradient": {
+                "rgb_from": "00AAFF",
+                "rgb_to": "0085FF"
+            },
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送",
+            "text_color": "FFFFFF"
+        },
+        "description": "",
+        "distance": 1130,
+        "favored": false,
+        "float_delivery_fee": 5,
+        "float_minimum_order_amount": 20,
+        "folding_restaurant_brand": "爱有梅有",
+        "folding_restaurants": [
+            {
+                "distance": 1378,
+                "id": 2190634,
+                "name": "爱有梅有（崇文搜秀店）",
+                "order_lead_time": 0,
+                "scheme": "eleme://retail_store?re_store_id=2190634",
+                "type": 1
+            }
+        ],
+        "id": 2190654,
+        "image_path": "1a06e1770efe595b27dffadfff2ae09ajpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.909432,
+        "longitude": 116.414344,
+        "max_applied_quantity_per_order": -1,
+        "name": "爱有梅有（东方广场二店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:30/21:00"
+        ],
+        "order_lead_time": 21,
+        "phone": "85187508",
+        "piecewise_agent_fee": {
+            "description": "配送费¥5",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 5,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥5"
+        },
+        "promotion_info": "如门店休息或者门店未接单，可电话联系，谢谢。",
+        "rating": 4.4,
+        "rating_count": 0,
+        "recent_order_num": 11,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=2190654",
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，开票订单金额100元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 675084257,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"80\": {\"1\": 8.0, \"0\": 0.0}, \"35\": {\"1\": 3.0, \"0\": 0.0}}",
+                "description": "满35减3，满80减8",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 244315746,
+                "is_exclusive_with_food_activity": true,
+                "name": "满减活动",
+                "tips": "满35减3，满80减8",
+                "type": 102
+            },
+            {
+                "description": "特价(限00:00-21:16)",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 244679842,
+                "name": "特价",
+                "tips": "特价"
+            },
+            {
+                "description": "红酒专场",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 244435610,
+                "name": "红酒专场",
+                "tips": "红酒专场"
+            },
+            {
+                "description": "红酒专场",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 244433834,
+                "name": "红酒专场",
+                "tips": "红酒专场"
+            },
+            {
+                "attribute": "{\"50.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u4f0a\\u5229\\u4f18\\u9178\\u4e73\"}}",
+                "description": "满50元赠送伊利优酸乳1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 219977274,
+                "is_exclusive_with_food_activity": true,
+                "name": "满赠活动",
+                "tips": "满50元赠送伊利优酸乳1份",
+                "type": 106
+            },
+            {
+                "description": "进店领1元代金券",
+                "icon_color": "ffac2a",
+                "icon_name": "领",
+                "id": -5,
+                "name": "到店领代金券",
+                "tips": "进店领1元代金券"
+            }
+        ],
+        "address": "北京市西城区双柳树胡同3-5.3-6号",
+        "authentic_id": 4342150546224941,
+        "description": "",
+        "distance": 4309,
+        "favored": false,
+        "float_delivery_fee": 10,
+        "float_minimum_order_amount": 20,
+        "id": 1009041,
+        "image_path": "1e7275c6e484784954e4eb0144acee57jpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.880775,
+        "longitude": 116.383966,
+        "max_applied_quantity_per_order": -1,
+        "name": "世纪华联超市(虎坊桥店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:00/22:00"
+        ],
+        "order_lead_time": 45,
+        "phone": "18210926609 13011240537",
+        "piecewise_agent_fee": {
+            "description": "配送费¥10",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 10,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥10"
+        },
+        "promotion_info": "",
+        "rating": 4.5,
+        "rating_count": 0,
+        "recent_order_num": 740,
+        "recommend": {
+            "color": "#e8470b",
+            "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png.png",
+            "is_ad": false,
+            "reason": "口碑人气好店"
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=1009041",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 683165193,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"49\": {\"1\": 5.0, \"0\": 0.0}, \"99\": {\"1\": 8.0, \"0\": 0.0}, \"199\": {\"1\": 10.0, \"0\": 0.0}}",
+                "description": "满49减5，满99减8，满199减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 215098466,
+                "is_exclusive_with_food_activity": false,
+                "name": "新店秒杀",
+                "tips": "满49减5，满99减8，满199减10",
+                "type": 102
+            },
+            {
+                "description": "艾美牛奶1元秒杀",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 247282874,
+                "name": "艾美牛奶1元秒杀",
+                "tips": "艾美牛奶1元秒杀"
+            },
+            {
+                "description": "悦凡蒂特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 242499730,
+                "name": "悦凡蒂特价",
+                "tips": "悦凡蒂特价"
+            },
+            {
+                "description": "新店红酒秒杀",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 237537122,
+                "name": "新店红酒秒杀",
+                "tips": "新店红酒秒杀"
+            },
+            {
+                "description": "0.99元秒杀",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 221257658,
+                "name": "0.99元秒杀",
+                "tips": "0.99元秒杀"
+            },
+            {
+                "description": "新店啤酒精酿秒杀",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 221255514,
+                "name": "新店啤酒精酿秒杀",
+                "tips": "新店啤酒精酿秒杀"
+            },
+            {
+                "description": "5折优惠酬宾",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 221228178,
+                "name": "5折优惠酬宾",
+                "tips": "5折优惠酬宾"
+            },
+            {
+                "attribute": "2.0",
+                "description": "本店新用户立减2元",
+                "icon_color": "00b762",
+                "icon_name": "新",
+                "id": 213043426,
+                "is_exclusive_with_food_activity": true,
+                "name": "门店新客立减",
+                "tips": "本店新用户立减2元",
+                "type": 108
+            },
+            {
+                "description": "实付68元返9元代金券",
+                "icon_color": "ff7239",
+                "icon_name": "返",
+                "id": -6,
+                "name": "下单返代金券",
+                "tips": "实付68元返9元代金券"
+            }
+        ],
+        "address": "北京市朝阳区广渠门外大街7号院1号楼1层商业1",
+        "authentic_id": 6362100544838887,
+        "bidding": "{\"core\":{\"index\":9,\"target\":{\"restaurantId\":161076187,\"weight\":150,\"probability\":0.03669999912381172},\"come_from\":1,\"next\":{\"restaurantId\":1190610,\"weight\":170,\"probability\":0.032099999487400055}}}",
+        "description": "主营进口商品（酒水/零食/日化/调味产品/麦片咖啡茶） 每周都有更新产品，让您不停尝到各种新鲜的国外食品！ 欢迎来BC把品质带回家！服务热线：13051960338",
+        "distance": 4926,
+        "favored": false,
+        "float_delivery_fee": 20,
+        "float_minimum_order_amount": 25,
+        "folding_restaurant_brand": "BC进口超市",
+        "folding_restaurants": [
+            {
+                "distance": 10050,
+                "id": 161076185,
+                "name": "BC进口超市（天鹅湾总店）",
+                "order_lead_time": 38,
+                "scheme": "eleme://retail_store?re_store_id=161076185",
+                "type": 1
+            }
+        ],
+        "id": 161076187,
+        "image_path": "cf289e15ac6c0870f7db3a080bec3c50png.png",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.895885,
+        "longitude": 116.450085,
+        "max_applied_quantity_per_order": -1,
+        "name": "BC进口超市（富力店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "07:10/23:55"
+        ],
+        "order_lead_time": 47,
+        "phone": "13051960338",
+        "piecewise_agent_fee": {
+            "description": "配送费¥20",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 20,
+                    "price": 25
+                }
+            ],
+            "tips": "配送费¥20"
+        },
+        "promotion_info": "主营进口商品（酒水/零食/日化/调味产品/麦片咖啡茶） 每周都有更新产品，让您不停尝到各种新鲜的国外食品！ 欢迎来BC把品质带回家！服务热线：13051960338",
+        "rating": 5,
+        "rating_count": 0,
+        "recent_order_num": 78,
+        "recommend": {
+            "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg.jpeg",
+            "is_ad": true,
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=161076187",
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额200元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 676185049,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "description": "乐事天然原味薯片70g袋",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 246476146,
+                "name": "乐事天然原味薯片70g袋",
+                "tips": "乐事天然原味薯片70g袋"
+            },
+            {
+                "description": "乐事清爽黄瓜味70g袋",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 246475362,
+                "name": "乐事清爽黄瓜味70g袋",
+                "tips": "乐事清爽黄瓜味70g袋"
+            },
+            {
+                "description": "沃隆每日坚果25g （A）",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 246474898,
+                "name": "沃隆每日坚果25g （A）",
+                "tips": "沃隆每日坚果25g （A）"
+            },
+            {
+                "description": "猪肉大葱酸汤水饺",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 244248818,
+                "name": "猪肉大葱酸汤水饺",
+                "tips": "猪肉大葱酸汤水饺"
+            },
+            {
+                "description": "日式海鲜茶碗蒸",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 244245282,
+                "name": "日式海鲜茶碗蒸",
+                "tips": "日式海鲜茶碗蒸"
+            },
+            {
+                "description": "进店领10元代金券",
+                "icon_color": "ffac2a",
+                "icon_name": "领",
+                "id": -7,
+                "name": "到店领代金券",
+                "tips": "进店领10元代金券"
+            }
+        ],
+        "address": "北京市东城区骑河楼大街5号楼5-1一层1号",
+        "authentic_id": 7352130528930061,
+        "delivery_mode": {
+            "border": "",
+            "color": "2395FF",
+            "gradient": {
+                "rgb_from": "00AAFF",
+                "rgb_to": "0085FF"
+            },
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送",
+            "text_color": "FFFFFF"
+        },
+        "description": "",
+        "distance": 2517,
+        "favored": false,
+        "float_delivery_fee": 6,
+        "float_minimum_order_amount": 20,
+        "id": 161107861,
+        "image_path": "f37d1c6b00e3502aa88c3a952fff84b3png.png",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.920845,
+        "longitude": 116.40629,
+        "max_applied_quantity_per_order": -1,
+        "name": "全时便利店（六十五中店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/22:00"
+        ],
+        "order_lead_time": 26,
+        "phone": "010-53325573",
+        "piecewise_agent_fee": {
+            "description": "配送费¥6",
+            "extra_fee": 1,
+            "is_extra": true,
+            "rules": [
+                {
+                    "fee": 6,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥6"
+        },
+        "promotion_info": "",
+        "rating": 4.7,
+        "rating_count": 0,
+        "recent_order_num": 44,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=161107861",
+        "status": 1,
+        "supports": [
+            {
+                "description": "已加入“外卖保”计划，食品安全有保障",
+                "icon_color": "999999",
+                "icon_name": "保",
+                "id": 7,
+                "name": "外卖保"
+            },
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 675980713,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"128\": {\"1\": 10.0, \"0\": 0.0}, \"68\": {\"1\": 5.0, \"0\": 0.0}}",
+                "description": "满68减5，满128减10",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 219587378,
+                "is_exclusive_with_food_activity": false,
+                "name": "田归农",
+                "tips": "满68减5，满128减10",
+                "type": 102
+            },
+            {
+                "description": "褚橙来了",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 214518146,
+                "name": "褚橙来了",
+                "tips": "褚橙来了"
+            }
+        ],
+        "address": "北京市朝阳区力源里北街2号院3号楼1层101",
+        "authentic_id": 3382130534785094,
+        "description": "田归农（北京）农业科技有限公司，秉承“食品需要回归”的理念，为邻里、朋友甄选新鲜、安全、高品质的水果，并快速送达！",
+        "distance": 1543,
+        "favored": false,
+        "float_delivery_fee": 7,
+        "float_minimum_order_amount": 20,
+        "id": 156344094,
+        "image_path": "ace0c3d2f81f3f5266607ca26ff11a8apng.png",
+        "is_new": false,
+        "is_premium": true,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.89659,
+        "longitude": 116.41463,
+        "max_applied_quantity_per_order": -1,
+        "name": "田归农快送水果（崇文门店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/21:20"
+        ],
+        "order_lead_time": 38,
+        "phone": "13683617757",
+        "piecewise_agent_fee": {
+            "description": "配送费¥7",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 7,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥7"
+        },
+        "promotion_info": "所有果切、果汁下单后现做，1小时内送达，有任何问题包退包换！客服电话：13683617757",
+        "rating": 4.8,
+        "rating_count": 0,
+        "recent_order_num": 371,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=156344094",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 677039873,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            }
+        ],
+        "address": "北京市东城区东兴隆街23号一层",
+        "authentic_id": 1382160541117436,
+        "description": " ",
+        "distance": 1492,
+        "favored": false,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 35,
+        "folding_restaurant_brand": "酒便利",
+        "folding_restaurants": [
+            {
+                "distance": 2587,
+                "id": 1131360,
+                "name": "酒便利(东花市店)",
+                "order_lead_time": 0,
+                "scheme": "eleme://retail_store?re_store_id=1131360",
+                "type": 1
+            }
+        ],
+        "id": 1131336,
+        "image_path": "ba81a25f223fb7cec11df6565e03ac26jpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.89743,
+        "longitude": 116.41533,
+        "max_applied_quantity_per_order": -1,
+        "name": "酒便利(崇文门店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/21:30"
+        ],
+        "order_lead_time": 0,
+        "phone": "67084034",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 35
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "酒便利北京60家门店全部有实体店面，100%直营管理；\n所有酒水100%保真，假一罚十；\n支持最快20分钟急速送达；\n啤酒有冰镇。\n\n北京统一服务热线：96019",
+        "rating": 4.4,
+        "rating_count": 0,
+        "recent_order_num": 41,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=1131336",
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额100元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 683278641,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"55\": {\"1\": 3.0, \"0\": 0.0}}",
+                "description": "满55减3",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 245730234,
+                "is_exclusive_with_food_activity": false,
+                "name": "满减",
+                "tips": "满55减3",
+                "type": 102
+            },
+            {
+                "description": "深夜便利店8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 222250930,
+                "name": "深夜便利店8折",
+                "tips": "深夜便利店8折"
+            }
+        ],
+        "address": "北京市东城区兴隆都市馨园2号楼B23号",
+        "authentic_id": 1382170534674448,
+        "delivery_mode": {
+            "border": "",
+            "color": "2395FF",
+            "gradient": {
+                "rgb_from": "00AAFF",
+                "rgb_to": "0085FF"
+            },
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送",
+            "text_color": "FFFFFF"
+        },
+        "description": "",
+        "distance": 1508,
+        "favored": false,
+        "float_delivery_fee": 6,
+        "float_minimum_order_amount": 20,
+        "id": 146808448,
+        "image_path": "2ee0fe6c608da41141170eb057751066jpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.896581,
+        "longitude": 116.414089,
+        "max_applied_quantity_per_order": -1,
+        "name": "中商惠民便利超市",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "08:00/24:00"
+        ],
+        "order_lead_time": 31,
+        "phone": "13126805677 18338690610 010-67052667",
+        "piecewise_agent_fee": {
+            "description": "配送费¥6",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 6,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥6"
+        },
+        "promotion_info": "",
+        "rating": 4.6,
+        "rating_count": 0,
+        "recent_order_num": 64,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=146808448",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "{\"99\": 50, \"69\": 30}",
+                "description": "百草味专场:满69减30，满99减50",
+                "icon_color": "f88615",
+                "icon_name": "减",
+                "id": 246722114,
+                "is_exclusive_with_food_activity": true,
+                "name": "百草味专场",
+                "tips": "百草味专场:满69减30，满99减50",
+                "type": 109
+            },
+            {
+                "attribute": "{\"99\": 20}",
+                "description": "哈哈镜专场:满99减20",
+                "icon_color": "f88615",
+                "icon_name": "减",
+                "id": 245436850,
+                "is_exclusive_with_food_activity": true,
+                "name": "哈哈镜专场",
+                "tips": "哈哈镜专场:满99减20",
+                "type": 109
+            },
+            {
+                "attribute": "{\"69\": 30}",
+                "description": "百草味专场:满69减30",
+                "icon_color": "f88615",
+                "icon_name": "减",
+                "id": 241932562,
+                "is_exclusive_with_food_activity": true,
+                "name": "百草味专场",
+                "tips": "百草味专场:满69减30",
+                "type": 109
+            },
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 682467593,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"99\": {\"1\": 12.0, \"0\": 0.0}, \"69\": {\"1\": 8.0, \"0\": 0.0}, \"38\": {\"1\": 4.0, \"0\": 0.0}}",
+                "description": "满38减4，满69减8，满99减12",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 246726042,
+                "is_exclusive_with_food_activity": true,
+                "name": "店铺满减",
+                "tips": "满38减4，满69减8，满99减12",
+                "type": 102
+            },
+            {
+                "description": "干脆面四折",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 246618018,
+                "name": "干脆面四折",
+                "tips": "干脆面四折"
+            },
+            {
+                "description": "晚八秒杀12.18-12.24(限19:30-23:00)",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 245974954,
+                "name": "晚八秒杀12.18-12.24",
+                "tips": "晚八秒杀12.18-12.24"
+            },
+            {
+                "attribute": "{\"49.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"CM\\u671d\\u7f8e\\u9632\\u96fe\\u973e\\u53e3\\u7f69\"}}",
+                "description": "满49元赠送CM朝美防雾霾口罩1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 244765034,
+                "is_exclusive_with_food_activity": true,
+                "name": "送您好礼",
+                "tips": "满49元赠送CM朝美防雾霾口罩1份",
+                "type": 106
+            },
+            {
+                "description": "双12特惠",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 242629290,
+                "name": "双12特惠",
+                "tips": "双12特惠"
+            },
+            {
+                "attribute": "1.0",
+                "description": "本店新用户立减1元",
+                "icon_color": "00b762",
+                "icon_name": "新",
+                "id": 239907922,
+                "is_exclusive_with_food_activity": true,
+                "name": "门店新客立减",
+                "tips": "本店新用户立减1元",
+                "type": 108
+            },
+            {
+                "description": "冬至食品8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 213773210,
+                "name": "冬至食品8折",
+                "tips": "冬至食品8折"
+            },
+            {
+                "description": "啤酒畅饮",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 213380858,
+                "name": "啤酒畅饮",
+                "tips": "啤酒畅饮"
+            },
+            {
+                "description": "特价",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 212101210,
+                "name": "特价",
+                "tips": "特价"
+            },
+            {
+                "description": "特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 212100266,
+                "name": "特价",
+                "tips": "特价"
+            },
+            {
+                "description": "特价",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 212099914,
+                "name": "特价",
+                "tips": "特价"
+            },
+            {
+                "description": "白酒啤酒黄酒8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211372722,
+                "name": "白酒啤酒黄酒8折",
+                "tips": "白酒啤酒黄酒8折"
+            },
+            {
+                "description": "冲饮8折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211371914,
+                "name": "冲饮8折",
+                "tips": "冲饮8折"
+            },
+            {
+                "description": "饮料/水 7折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211370754,
+                "name": "饮料/水 7折",
+                "tips": "饮料/水 7折"
+            },
+            {
+                "description": "休闲零食6折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211369458,
+                "name": "休闲零食6折",
+                "tips": "休闲零食6折"
+            },
+            {
+                "description": "牛奶乳酸菌 6折",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211367530,
+                "name": "牛奶乳酸菌 6折",
+                "tips": "牛奶乳酸菌 6折"
+            },
+            {
+                "description": "薯片1.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211365138,
+                "name": "薯片1.99元抢",
+                "tips": "薯片1.99元抢"
+            },
+            {
+                "description": "可乐0.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 211363130,
+                "name": "可乐0.99元抢",
+                "tips": "可乐0.99元抢"
+            },
+            {
+                "description": "西餐烘焙新品推广",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 210487018,
+                "name": "西餐烘焙新品推广",
+                "tips": "西餐烘焙新品推广"
+            },
+            {
+                "description": "味全1.99元抢",
+                "icon_color": "f07373",
+                "icon_name": "折",
+                "id": 144373682,
+                "name": "味全1.99元抢",
+                "tips": "味全1.99元抢"
+            },
+            {
+                "description": "下单可返5元代金券",
+                "icon_color": "ff7239",
+                "icon_name": "返",
+                "id": -9,
+                "name": "下单返代金券",
+                "tips": "下单可返5元代金券"
+            },
+            {
+                "description": "进店领20元代金券",
+                "icon_color": "ffac2a",
+                "icon_name": "领",
+                "id": -8,
+                "name": "到店领代金券",
+                "tips": "进店领20元代金券"
+            }
+        ],
+        "address": "北京市东城区幸福家园第11幢1层2号房",
+        "authentic_id": 3342190526240810,
+        "bidding": "{\"core\":{\"index\":14,\"target\":{\"restaurantId\":1190610,\"weight\":170,\"probability\":0.032099999487400055},\"come_from\":1,\"next\":{\"restaurantId\":159419104,\"weight\":170,\"probability\":0.026000000536441803}}}",
+        "description": "啤酒饮料矿泉水，花生瓜子八宝粥。熟悉的台词，不变的我们。本店经营食品、饮料、酒水、日用百货等海量商品,足不出户，下单立减，快速送达！服务电话010-67161653",
+        "distance": 3181,
+        "favored": false,
+        "float_delivery_fee": 8,
+        "float_minimum_order_amount": 35,
+        "id": 1190610,
+        "image_path": "fd170616fe22d825b926193fb230a61bjpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.892403,
+        "longitude": 116.430975,
+        "max_applied_quantity_per_order": -1,
+        "name": "邻活便利（广渠门内店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:00/01:00"
+        ],
+        "order_lead_time": 38,
+        "phone": "13520095269 010-67161653",
+        "piecewise_agent_fee": {
+            "description": "配送费¥8",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 8,
+                    "price": 35
+                }
+            ],
+            "tips": "配送费¥8"
+        },
+        "promotion_info": "原E点便利广渠门内店 一折优惠起",
+        "rating": 4.5,
+        "rating_count": 0,
+        "recent_order_num": 853,
+        "recommend": {
+            "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg.jpeg",
+            "is_ad": true,
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=1190610",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 684117553,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            }
+        ],
+        "address": "天津市河西区围堤道100号宝钢北方大厦四层A5-A6",
+        "authentic_id": 6352160527398857,
+        "description": "",
+        "distance": 2685,
+        "favored": false,
+        "float_delivery_fee": 0,
+        "float_minimum_order_amount": 30,
+        "id": 150053857,
+        "image_path": "789cb1b8e2d301b9d0875efab07f5e1cjpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.904063,
+        "longitude": 116.431373,
+        "max_applied_quantity_per_order": -1,
+        "name": "爱鲜蜂(国瑞城店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "10:00/22:00"
+        ],
+        "order_lead_time": 33,
+        "phone": "",
+        "piecewise_agent_fee": {
+            "description": "免配送费",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 0,
+                    "price": 30
+                }
+            ],
+            "tips": "免配送费"
+        },
+        "promotion_info": "",
+        "rating": 4.4,
+        "rating_count": 0,
+        "recent_order_num": 22,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=150053857",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 676330609,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"99\": {\"1\": 16.0, \"0\": 0.0}, \"35\": {\"1\": 8.0, \"0\": 0.0}, \"55\": {\"1\": 10.0, \"0\": 0.0}}",
+                "description": "满35减8，满55减10，满99减16",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 213214330,
+                "is_exclusive_with_food_activity": false,
+                "name": "光明超市谢谢您",
+                "tips": "满35减8，满55减10，满99减16",
+                "type": 102
+            },
+            {
+                "description": "［六折］立享当季鲜水果",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 246673298,
+                "name": "［六折］立享当季鲜水果",
+                "tips": "［六折］立享当季鲜水果"
+            },
+            {
+                "description": "一元饮料随意购",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 239523914,
+                "name": "一元饮料随意购",
+                "tips": "一元饮料随意购"
+            },
+            {
+                "attribute": "{\"68.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u5f53\\u5b63\\u6c34\\u679c\"}}",
+                "description": "满68元赠送当季水果1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 218747618,
+                "is_exclusive_with_food_activity": true,
+                "name": "下单就赠哦",
+                "tips": "满68元赠送当季水果1份",
+                "type": 106
+            },
+            {
+                "description": "下单可返15元代金券",
+                "icon_color": "ff7239",
+                "icon_name": "返",
+                "id": -10,
+                "name": "下单返代金券",
+                "tips": "下单可返15元代金券"
+            }
+        ],
+        "address": "北京市朝阳区双井北菜园1号楼1层001室",
+        "authentic_id": 3362100540271908,
+        "description": "图片仅供参考，以实物为准。\n各种水果  啤酒 饮料 小吃 牛奶 日用品",
+        "distance": 5792,
+        "favored": false,
+        "float_delivery_fee": 15,
+        "float_minimum_order_amount": 20,
+        "id": 271908,
+        "image_path": "78415d7ede71fb13b6cbb0dd79235679jpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.8974154831398,
+        "longitude": 116.462964456387,
+        "max_applied_quantity_per_order": -1,
+        "name": "光明超市",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 50,
+        "phone": "18612226548",
+        "piecewise_agent_fee": {
+            "description": "配送费¥15",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 15,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥15"
+        },
+        "promotion_info": "本店竭诚24小时为您服务，为了保证您的餐能及时送到请提前预定，本店优先配送饿了么订单！如遇到投诉问题请提前联系餐厅！",
+        "rating": 4.5,
+        "rating_count": 0,
+        "recent_order_num": 3253,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=271908",
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，开票订单金额128元起，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 676332305,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            }
+        ],
+        "address": "北京市东城区霞公府街1号首层1-1号",
+        "authentic_id": 2322190545071088,
+        "delivery_mode": {
+            "border": "",
+            "color": "2395FF",
+            "gradient": {
+                "rgb_from": "00AAFF",
+                "rgb_to": "0085FF"
+            },
+            "id": 1,
+            "is_solid": true,
+            "text": "蜂鸟专送",
+            "text_color": "FFFFFF"
+        },
+        "description": "",
+        "distance": 851,
+        "favored": false,
+        "float_delivery_fee": 6,
+        "float_minimum_order_amount": 20,
+        "folding_restaurant_brand": "全家便利店",
+        "folding_restaurants": [
+            {
+                "distance": 1268,
+                "id": 158254889,
+                "name": "全家便利店（金鱼胡同店）",
+                "order_lead_time": 26,
+                "scheme": "eleme://retail_store?re_store_id=158254889",
+                "type": 1
+            },
+            {
+                "distance": 1279,
+                "id": 158254865,
+                "name": "全家便利店（东单店）",
+                "order_lead_time": 29,
+                "scheme": "eleme://retail_store?re_store_id=158254865",
+                "type": 1
+            },
+            {
+                "distance": 2251,
+                "id": 158254875,
+                "name": "全家便利店（东便门店）",
+                "order_lead_time": 34,
+                "scheme": "eleme://retail_store?re_store_id=158254875",
+                "type": 1
+            }
+        ],
+        "id": 158254888,
+        "image_path": "01ef7178b563a8e06db9f038250f6d13png.png",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.909358,
+        "longitude": 116.410882,
+        "max_applied_quantity_per_order": -1,
+        "name": "全家便利店（霞公府店）",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "09:10/22:00"
+        ],
+        "order_lead_time": 28,
+        "phone": "65596877",
+        "piecewise_agent_fee": {
+            "description": "配送费¥6",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 6,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥6"
+        },
+        "promotion_info": "欢迎光临全家。喜欢全家可点击右上角【收藏商家】\n\n如果您有全家的集享卡，您在饿了么消费，可以给您积分的。支付前，请在“订单备注”，填写手机号。\n\n热食默认加热，不需加热请备注。您在购物中有任何问题，请拨打商家电话，第一时间为您解决。",
+        "rating": 5,
+        "rating_count": 0,
+        "recent_order_num": 53,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=158254888",
+        "status": 1,
+        "supports": [
+            {
+                "description": "该商家支持开发票，请在下单时填写好发票抬头",
+                "icon_color": "999999",
+                "icon_name": "票",
+                "id": 4,
+                "name": "开发票"
+            }
+        ],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 681253249,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"128\": {\"1\": 16.0, \"0\": 0.0}, \"68\": {\"1\": 12.0, \"0\": 0.0}, \"39\": {\"1\": 8.0, \"0\": 0.0}}",
+                "description": "满39减8，满68减12，满128减16",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 200930170,
+                "is_exclusive_with_food_activity": false,
+                "name": "满立减",
+                "tips": "满39减8，满68减12，满128减16",
+                "type": 102
+            },
+            {
+                "attribute": "{\"48.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u795e\\u79d8\\u793c\\u7269\"}}",
+                "description": "满48元赠送神秘礼物1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 246792722,
+                "is_exclusive_with_food_activity": true,
+                "name": "满立赠",
+                "tips": "满48元赠送神秘礼物1份",
+                "type": 106
+            },
+            {
+                "description": "舌尖上的水果",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 240526994,
+                "name": "舌尖上的水果",
+                "tips": "舌尖上的水果"
+            },
+            {
+                "description": "一元商品",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 225677722,
+                "name": "一元商品",
+                "tips": "一元商品"
+            },
+            {
+                "description": "水果打折了",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 224551930,
+                "name": "水果打折了",
+                "tips": "水果打折了"
+            },
+            {
+                "description": "进店领3-6元代金券",
+                "icon_color": "ffac2a",
+                "icon_name": "领",
+                "id": -11,
+                "name": "到店领代金券",
+                "tips": "进店领3-6元代金券"
+            }
+        ],
+        "address": "北京市朝阳区东三环中路18号北平房",
+        "authentic_id": 4372150544099347,
+        "description": "",
+        "distance": 5775,
+        "favored": false,
+        "float_delivery_fee": 18,
+        "float_minimum_order_amount": 20,
+        "id": 158659547,
+        "image_path": "2ee0fe6c608da41141170eb057751066jpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.891585,
+        "longitude": 116.460942,
+        "max_applied_quantity_per_order": -1,
+        "name": "世纪华联超市",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/24:00"
+        ],
+        "order_lead_time": 39,
+        "phone": "18810507194",
+        "piecewise_agent_fee": {
+            "description": "配送费¥18",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 18,
+                    "price": 20
+                }
+            ],
+            "tips": "配送费¥18"
+        },
+        "promotion_info": "新店开业 欢迎光临 商品陆续上传中",
+        "rating": 4.8,
+        "rating_count": 0,
+        "recent_order_num": 924,
+        "recommend": {
+            "is_ad": false,
+            "reason": ""
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=158659547",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    },
+    {
+        "activities": [
+            {
+                "attribute": "15.0",
+                "description": "新用户下单立减15元",
+                "icon_color": "70bc46",
+                "icon_name": "首",
+                "id": 682419545,
+                "is_exclusive_with_food_activity": true,
+                "name": "新用户立减(不与其他活动共享)",
+                "tips": "新用户下单立减15元",
+                "type": 103
+            },
+            {
+                "attribute": "{\"158\": {\"1\": 20.0, \"0\": 0.0}, \"78\": {\"1\": 10.0, \"0\": 0.0}, \"39\": {\"1\": 5.0, \"0\": 0.0}}",
+                "description": "满39减5，满78减10，满158减20",
+                "icon_color": "f07373",
+                "icon_name": "减",
+                "id": 247285082,
+                "is_exclusive_with_food_activity": true,
+                "name": "云克隆便利店（工体店）",
+                "tips": "满39减5，满78减10，满158减20",
+                "type": 102
+            },
+            {
+                "description": "云克隆便利店（工体店）",
+                "icon_color": "f07373",
+                "icon_name": "特",
+                "id": 215160570,
+                "name": "云克隆便利店（工体店）",
+                "tips": "云克隆便利店（工体店）"
+            },
+            {
+                "description": "1元精品",
+                "icon_color": "f1884f",
+                "icon_name": "特",
+                "id": 215150986,
+                "name": "1元精品",
+                "tips": "1元精品"
+            },
+            {
+                "attribute": "{\"49.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u795e\\u79d8\\u793c\\u54c1\"}}",
+                "description": "满49元赠送神秘礼品1份",
+                "icon_color": "3cc791",
+                "icon_name": "赠",
+                "id": 215147858,
+                "is_exclusive_with_food_activity": true,
+                "name": "云克隆便利店（工体店）",
+                "tips": "满49元赠送神秘礼品1份",
+                "type": 106
+            },
+            {
+                "attribute": "5.0",
+                "description": "本店新用户立减5元",
+                "icon_color": "00b762",
+                "icon_name": "新",
+                "id": 203750138,
+                "is_exclusive_with_food_activity": true,
+                "name": "门店新客立减",
+                "tips": "本店新用户立减5元",
+                "type": 108
+            },
+            {
+                "description": "下单可返5元代金券",
+                "icon_color": "ff7239",
+                "icon_name": "返",
+                "id": -12,
+                "name": "下单返代金券",
+                "tips": "下单可返5元代金券"
+            }
+        ],
+        "address": "北京市朝阳区朝外吉庆里1号楼东平房",
+        "authentic_id": 5392140532132704,
+        "bidding": "{\"core\":{\"index\":19,\"target\":{\"restaurantId\":159419104,\"weight\":170,\"probability\":0.026000000536441803},\"come_from\":1,\"next\":{\"restaurantId\":1135993,\"weight\":80,\"probability\":0.04179999977350235}}}",
+        "description": "",
+        "distance": 4834,
+        "favored": false,
+        "float_delivery_fee": 12,
+        "float_minimum_order_amount": 39,
+        "id": 159419104,
+        "image_path": "5207130fa4c0452e319072a159170c60jpeg.jpeg",
+        "is_new": false,
+        "is_premium": false,
+        "is_stock_empty": 0,
+        "is_valid": 1,
+        "latitude": 39.928518,
+        "longitude": 116.442755,
+        "max_applied_quantity_per_order": -1,
+        "name": "云克隆便利店(工体店)",
+        "next_business_time": "",
+        "only_use_poi": false,
+        "opening_hours": [
+            "00:00/02:00",
+            "09:00/23:55"
+        ],
+        "order_lead_time": 36,
+        "phone": "18515815310",
+        "piecewise_agent_fee": {
+            "description": "配送费¥12",
+            "extra_fee": 0,
+            "is_extra": false,
+            "rules": [
+                {
+                    "fee": 12,
+                    "price": 39
+                }
+            ],
+            "tips": "配送费¥12"
+        },
+        "promotion_info": "",
+        "rating": 4.7,
+        "rating_count": 0,
+        "recent_order_num": 96,
+        "recommend": {
+            "image_hash": "731111f3f9379e772eedf4855beae8a1jpeg.jpeg",
+            "is_ad": true,
+            "reason": "广告",
+            "track": "{\"rankType\":\"8\"}"
+        },
+        "regular_customer_count": 0,
+        "scheme": "eleme://retail_store?re_store_id=159419104",
+        "status": 1,
+        "supports": [],
+        "type": 1
+    }
+]

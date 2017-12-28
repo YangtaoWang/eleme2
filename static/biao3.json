@@ -1,0 +1,723 @@
+{
+    "items": [
+        {
+            "restaurant": {
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 722352113,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    },
+                    {
+                        "description": "进店领30元代金券",
+                        "icon_color": "ffac2a",
+                        "icon_name": "领",
+                        "id": -1,
+                        "name": "到店领代金券",
+                        "tips": "进店领30元代金券"
+                    }
+                ],
+                "address": "北京市丰台区马家堡西路角门西里29号",
+                "authentic_id": 3322144896494138,
+                "description": "公司一直以大众百姓身体健康为己任，以质优价廉真诚服务为载体。遵循“以人为本，以质取信，低价经营，诚信服务的企业宗旨。以”您的健康是我们最大的心愿，您的认可是我们最大的荣耀“为经营理念，以”真情无处不在，服务永无止境“为服务宗旨，为大众百姓健康尽心竭力。",
+                "distance": 2312,
+                "favored": false,
+                "float_delivery_fee": 3,
+                "float_minimum_order_amount": 0,
+                "id": 152174438,
+                "image_path": "b3f3c1e3e960182fd593277a17dd6650jpeg.jpeg",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.917354899606,
+                "longitude": 116.41729563044,
+                "max_applied_quantity_per_order": -1,
+                "name": "叮当智慧(北京市灯市口站)",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/24:00"
+                ],
+                "order_lead_time": 38,
+                "phone": "95028 01065285488",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥3",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 3,
+                            "price": 0
+                        }
+                    ],
+                    "tips": "配送费¥3"
+                },
+                "promotion_info": "本店不能开票，如需开票请携购物小票到门店开具。专业客服及药师为你7X24小时服务，快速送达，药师电话95028。",
+                "rating": 4.6,
+                "rating_count": 0,
+                "recent_order_num": 216,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=152174438",
+                "status": 1,
+                "supports": [],
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 727506465,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    },
+                    {
+                        "description": "快方 12.20-1.7",
+                        "icon_color": "f1884f",
+                        "icon_name": "特",
+                        "id": 261689410,
+                        "name": "快方 12.20-1.7",
+                        "tips": "快方 12.20-1.7"
+                    }
+                ],
+                "address": "北京市密云区经济开发区西统路49号",
+                "authentic_id": 5362184888729152,
+                "description": "",
+                "distance": 3366,
+                "favored": false,
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 0,
+                "id": 150994052,
+                "image_path": "87bf1af746e292f8faf5a860eb506a6bpng.png",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.92746,
+                "longitude": 116.413549,
+                "max_applied_quantity_per_order": -1,
+                "name": "快方送药（东城店）",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/23:55"
+                ],
+                "order_lead_time": 40,
+                "phone": "01080455099",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 0
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "promotion_info": "",
+                "rating": 4.8,
+                "rating_count": 0,
+                "recent_order_num": 769,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=150994052",
+                "status": 1,
+                "supports": [
+                    {
+                        "description": "该商家支持开发票，开票订单金额20元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票"
+                    }
+                ],
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 721111081,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    },
+                    {
+                        "description": "进店领30元代金券",
+                        "icon_color": "ffac2a",
+                        "icon_name": "领",
+                        "id": -2,
+                        "name": "到店领代金券",
+                        "tips": "进店领30元代金券"
+                    }
+                ],
+                "address": "北京市东城区东四南大街157号-6",
+                "authentic_id": 6362184904900203,
+                "description": "公司一直以大众百姓身体健康为己任，以质优价廉真诚服务为载体。遵循“以人为本，以质取信，低价经营，诚信服务的企业宗旨。以”您的健康是我们最大的心愿，您的认可是我们最大的荣耀“为经营理念，以”真情无处不在，服务永无止境“为服务宗旨，为大众百姓健康尽心竭力。",
+                "distance": 2312,
+                "favored": false,
+                "float_delivery_fee": 3,
+                "float_minimum_order_amount": 0,
+                "id": 150113803,
+                "image_path": "68acf72c0f8233e021876a77819fbb1fpng.png",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.917354899606,
+                "longitude": 116.41729563044,
+                "max_applied_quantity_per_order": -1,
+                "name": "叮当快药(北京市灯市口站)",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/24:00"
+                ],
+                "order_lead_time": 39,
+                "phone": "95028 01065285488",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥3",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 3,
+                            "price": 0
+                        }
+                    ],
+                    "tips": "配送费¥3"
+                },
+                "promotion_info": "本店不能开票，如需开票请携购物小票到门店开具。专业客服及药师为你7X24小时服务，快速送达，药师电话95028。",
+                "rating": 4.8,
+                "rating_count": 0,
+                "recent_order_num": 934,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=150113803",
+                "status": 1,
+                "supports": [],
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 728999113,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"369\": {\"1\": 20.0, \"0\": 0.0}, \"229\": {\"1\": 12.0, \"0\": 0.0}}",
+                        "description": "满229减12，满369减20",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 260415842,
+                        "is_exclusive_with_food_activity": false,
+                        "name": "品质商家",
+                        "tips": "满229减12，满369减20",
+                        "type": 102
+                    },
+                    {
+                        "attribute": "1.0",
+                        "description": "本店新用户立减1元",
+                        "icon_color": "00b762",
+                        "icon_name": "新",
+                        "id": 260413874,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "门店新客立减",
+                        "tips": "本店新用户立减1元",
+                        "type": 108
+                    },
+                    {
+                        "description": "品质商家",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 216557082,
+                        "name": "品质商家",
+                        "tips": "品质商家"
+                    }
+                ],
+                "address": "北京市朝阳区朝阳北路107号院35号楼1层101",
+                "authentic_id": 3382184897629150,
+                "description": "欲念情趣是一家高端连锁实体店，甄选高品质的产品，满足您1024种需求。售出产品均提供售后质保。",
+                "distance": 5869,
+                "favored": false,
+                "float_delivery_fee": 9,
+                "float_minimum_order_amount": 139,
+                "id": 155175250,
+                "image_path": "045179157830137e5bd5996a772e1cc5png.png",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.932596,
+                "longitude": 116.451514,
+                "max_applied_quantity_per_order": -1,
+                "name": "欲念情趣(朝阳店)",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "09:40/23:00"
+                ],
+                "order_lead_time": 0,
+                "phone": "15611223660",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥9",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 9,
+                            "price": 139
+                        }
+                    ],
+                    "tips": "配送费¥9"
+                },
+                "promotion_info": "慎重下单，安排配送后无法取消订单。\n接单后1-2个小时送达，系统预计不准确， 距离决定时效，急单慎拍，订单会在正常时效送达，请不要频繁催促。\n   接单后即时安排配送，不接受退单申请，下单请考虑需求后提交。恶意订单请绕行。",
+                "rating": 5,
+                "rating_count": 0,
+                "recent_order_num": 40,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=155175250",
+                "status": 1,
+                "supports": [],
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "activities": [
+                    {
+                        "attribute": "20.0",
+                        "description": "新用户下单立减20元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 726940593,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减20元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"120\": {\"1\": 10.0, \"0\": 0.0}, \"288\": {\"1\": 30.0, \"0\": 0.0}, \"388\": {\"1\": 40.0, \"0\": 0.0}, \"188\": {\"1\": 20.0, \"0\": 0.0}, \"488\": {\"1\": 50.0, \"0\": 0.0}}",
+                        "description": "满120减10，满188减20，满288减30，满388减40，满488减50",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 245298802,
+                        "is_exclusive_with_food_activity": false,
+                        "name": "夜未央满减优惠",
+                        "tips": "满120减10，满188减20，满288减30，满388减40，满488减50",
+                        "type": 102
+                    },
+                    {
+                        "attribute": "5.0",
+                        "description": "本店新用户立减5元",
+                        "icon_color": "00b762",
+                        "icon_name": "新",
+                        "id": 181701954,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "门店新客立减",
+                        "tips": "本店新用户立减5元",
+                        "type": 108
+                    },
+                    {
+                        "description": "夜未央 一家专卖情趣用品店，让您买的放心，用的开心！",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 174887682,
+                        "name": "夜未央 一家专卖情趣用品店，让您买的放心，用的开心！",
+                        "tips": "夜未央 一家专卖情趣用品店，让您买的放心，用的开心！"
+                    },
+                    {
+                        "description": "夜未央一急您所需，供您所求！欢迎进店选购！",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 139995290,
+                        "name": "夜未央一急您所需，供您所求！欢迎进店选购！",
+                        "tips": "夜未央一急您所需，供您所求！欢迎进店选购！"
+                    },
+                    {
+                        "description": "夜未央一全程保密配送，解除您的任何担忧",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 112482522,
+                        "name": "夜未央一全程保密配送，解除您的任何担忧",
+                        "tips": "夜未央一全程保密配送，解除您的任何担忧"
+                    },
+                    {
+                        "attribute": "{\"1.0\": {\"quantity\": 1, \"must_pay_online\": 1, \"name\": \"\\u6da6\\u6ed1\\u5242\\uff0c\\u907f\\u5b55\\u5957\"}}",
+                        "description": "满1元赠送润滑剂，避孕套1份",
+                        "icon_color": "3cc791",
+                        "icon_name": "赠",
+                        "id": 41920104,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "夜未央回馈礼包",
+                        "tips": "满1元赠送润滑剂，避孕套1份",
+                        "type": 106
+                    },
+                    {
+                        "description": "实付198元返20元代金券",
+                        "icon_color": "ff7239",
+                        "icon_name": "返",
+                        "id": -3,
+                        "name": "下单返代金券",
+                        "tips": "实付198元返20元代金券"
+                    }
+                ],
+                "address": "北京市大兴区北藏村镇大藏村大荣路45号",
+                "authentic_id": 3312194899756283,
+                "description": "❤️夜未央️一家专卖情趣用品店——全城1小时极速到达！急您所需，供您所求！\n\n❤️全程保密配送，让您买的放心！用的开心！\n\n❤️夜未央—— 急您所需，供您所求！让爱❤️不再等待\n                            祝您生活愉快！",
+                "distance": 33198,
+                "favored": false,
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 50,
+                "id": 2031883,
+                "image_path": "b3def50004de826f522b041468ca8d96jpeg.jpeg",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.665963,
+                "longitude": 116.315982,
+                "max_applied_quantity_per_order": -1,
+                "name": "夜未央情趣生活馆   (北京店)",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/24:00"
+                ],
+                "order_lead_time": 38,
+                "phone": "13070151412",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 50
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "promotion_info": "❤️夜未央❤️——让爱不再等待❤️下单立即送，礼品多多\n本店：丰台区，朝阳区，海淀区，昌平区，大兴区  都有配送站点，就近发货。全城保密配送，解除您的任何担忧！\n夜未央一家专卖情趣用品店——全城1小时极速到达！急您所需，供您所求！\n                 祝您生活愉快！",
+                "rating": 4,
+                "rating_count": 0,
+                "recent_order_num": 101,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=2031883",
+                "status": 1,
+                "supports": [
+                    {
+                        "description": "该商家支持开发票，开票订单金额300元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票"
+                    }
+                ],
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 720667657,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    }
+                ],
+                "address": "北京市朝阳区朝阳北路107号院35号楼1层101",
+                "authentic_id": 7352144891398501,
+                "description": "接单后40-120分钟送达，系统预计不准确， 距离决定时效，急单慎拍，订单会在正常时效送达，请不要频繁催促。\n      接单后即时安排配送，不接受退单申请，下单请考虑需求后提交。",
+                "distance": 11062,
+                "favored": false,
+                "float_delivery_fee": 9,
+                "float_minimum_order_amount": 199,
+                "id": 152161001,
+                "image_path": "045179157830137e5bd5996a772e1cc5png.png",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.923456,
+                "longitude": 116.512454,
+                "max_applied_quantity_per_order": -1,
+                "name": "欲念情趣（大悦城店）",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "09:40/23:00"
+                ],
+                "order_lead_time": 48,
+                "phone": "010-56022725",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥9",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 9,
+                            "price": 199
+                        }
+                    ],
+                    "tips": "配送费¥9"
+                },
+                "promotion_info": "接单后40-120分钟送达，系统预计不准确， 距离决定时效，急单慎拍，订单会在正常时效送达。\n   接单后即时安排配送，不接受退单申请，下单请考虑需求后提交。恶意订单请绕行。客服：2794173387",
+                "rating": 4.7,
+                "rating_count": 0,
+                "recent_order_num": 96,
+                "recommend": {
+                    "color": "#e8470b",
+                    "image_hash": "ac124c767ffa7fd296d3e2d6f01798c6png.png",
+                    "is_ad": false,
+                    "reason": "口碑人气好店"
+                },
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=152161001",
+                "status": 1,
+                "supports": [],
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 726315713,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    }
+                ],
+                "address": "北京市朝阳区望京园602号楼",
+                "authentic_id": 2382154890228584,
+                "description": "❤慎重❤下单15分钟后，商家一概不同意退款，请慎重购买！！！爱团爱欢迎您回家❤❤❤ \n1.7x24小时客服服务。 \n2.营业时间：大部分城市7x24小时 \n3.全城1小时急速到达，偏远地区1－3小时\n          爱团爱——做您所爱，想您所爱",
+                "distance": 13547,
+                "favored": false,
+                "float_delivery_fee": 0,
+                "float_minimum_order_amount": 99,
+                "id": 160270984,
+                "image_path": "71947e34596ddf24f9412ff2423c376cpng.png",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.9907,
+                "longitude": 116.47755,
+                "max_applied_quantity_per_order": -1,
+                "name": "爱团爱主题情趣店（北京朝阳店）",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "00:00/24:00"
+                ],
+                "order_lead_time": 0,
+                "phone": "13552167507",
+                "piecewise_agent_fee": {
+                    "description": "免配送费",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 0,
+                            "price": 99
+                        }
+                    ],
+                    "tips": "免配送费"
+                },
+                "promotion_info": "❤❤❤爱团爱全国连锁O2O情趣商超，创立以来获得消费者青睐，品牌一直追求“想您所爱，做您随爱”的理念！连锁店已覆盖全国188家城市，无论您跑到哪个城市，咱们会一直陪伴着您！！！欢迎选购❤❤❤",
+                "rating": 4.4,
+                "rating_count": 0,
+                "recent_order_num": 20,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=160270984",
+                "status": 1,
+                "supports": [
+                    {
+                        "description": "该商家支持开发票，开票订单金额300元起，请在下单时填写好发票抬头",
+                        "icon_color": "999999",
+                        "icon_name": "票",
+                        "id": 4,
+                        "name": "开发票"
+                    }
+                ],
+                "type": 1
+            }
+        },
+        {
+            "restaurant": {
+                "activities": [
+                    {
+                        "attribute": "15.0",
+                        "description": "新用户下单立减15元",
+                        "icon_color": "70bc46",
+                        "icon_name": "首",
+                        "id": 726566609,
+                        "is_exclusive_with_food_activity": true,
+                        "name": "新用户立减(不与其他活动共享)",
+                        "tips": "新用户下单立减15元",
+                        "type": 103
+                    },
+                    {
+                        "attribute": "{\"299\": {\"1\": 30.0, \"0\": 0.0}, \"699\": {\"1\": 50.0, \"0\": 0.0}}",
+                        "description": "满299减30，满699减50",
+                        "icon_color": "f07373",
+                        "icon_name": "减",
+                        "id": 245365146,
+                        "is_exclusive_with_food_activity": false,
+                        "name": "品质商家",
+                        "tips": "满299减30，满699减50",
+                        "type": 102
+                    },
+                    {
+                        "description": "品质商家",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 260669802,
+                        "name": "品质商家",
+                        "tips": "品质商家"
+                    },
+                    {
+                        "description": "品质商家",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 260436586,
+                        "name": "品质商家",
+                        "tips": "品质商家"
+                    },
+                    {
+                        "description": "品质商家",
+                        "icon_color": "f07373",
+                        "icon_name": "特",
+                        "id": 223566186,
+                        "name": "品质商家",
+                        "tips": "品质商家"
+                    },
+                    {
+                        "description": "下单可返10元代金券",
+                        "icon_color": "ff7239",
+                        "icon_name": "返",
+                        "id": -4,
+                        "name": "下单返代金券",
+                        "tips": "下单可返10元代金券"
+                    }
+                ],
+                "address": "北京市朝阳区青年路12号院2号楼3层304",
+                "authentic_id": 7362184888198852,
+                "description": "欲念情趣是一家高端连锁实体店铺，欢迎到实体店选购。",
+                "distance": 12028,
+                "favored": false,
+                "float_delivery_fee": 6,
+                "float_minimum_order_amount": 119,
+                "id": 155175252,
+                "image_path": "39a158dab7a71c8e5847420184830f56png.png",
+                "is_new": false,
+                "is_premium": false,
+                "is_stock_empty": 0,
+                "is_valid": 1,
+                "latitude": 39.935244,
+                "longitude": 116.517758,
+                "max_applied_quantity_per_order": -1,
+                "name": "欲念情趣(朝阳北路店)",
+                "next_business_time": "",
+                "only_use_poi": false,
+                "opening_hours": [
+                    "09:40/23:00"
+                ],
+                "order_lead_time": 38,
+                "phone": "010-56022725",
+                "piecewise_agent_fee": {
+                    "description": "配送费¥6",
+                    "extra_fee": 0,
+                    "is_extra": false,
+                    "rules": [
+                        {
+                            "fee": 6,
+                            "price": 119
+                        }
+                    ],
+                    "tips": "配送费¥6"
+                },
+                "promotion_info": "接单后40-120分钟送达，系统预计不准确， 距离决定时效，急单慎拍，订单会在正常时效送达，请不要频繁催促。未成年顾客谢绝购买。\n   接单后即时安排配送，不接受退单申请，下单请考虑需求后提交。",
+                "rating": 4.6,
+                "rating_count": 0,
+                "recent_order_num": 204,
+                "recommend": {
+                    "is_ad": false,
+                    "reason": ""
+                },
+                "regular_customer_count": 0,
+                "scheme": "eleme://retail_store?re_store_id=155175252",
+                "status": 1,
+                "supports": [],
+                "type": 1
+            }
+        }
+    ],
+    "meta": {
+        "rank_id": "56309d6886cf4274ac9931825462c968"
+    }
+}
